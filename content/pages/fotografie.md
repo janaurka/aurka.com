@@ -43,8 +43,8 @@ Mag / Mach ich nicht wirklich. Aber ein bisschen etwas muss sein.
 Programme:
 
 * Corel AfterShot Pro (proprietär...), sollte dann irgendwann auf Linux 64bit (nativ) laufen. Solange immer ein bisschen bastel. 
-* Darktable (selten)
-* RawTherapee (selten)
+* Darktable (selten aber immer öfters)
+* RawTherapee (selten aber immer weniger)
 * Gimp (nur Bildveränderungen wie Verpixelung)
 
 # Was geschieht mit all den Fotos?
