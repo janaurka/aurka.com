@@ -32,6 +32,16 @@ Siehe [Artikel zu Piwik](http://aurka.com/piwik.html "Artikel zu Piwik auf *.aur
 
 Oder halt persönlich `hallo` sagen.
 
+__Ich:__
+
+<div>
+-----BEGIN GEEK CODE BLOCK-----<br>
+Version: 3.1<br>
+GH/IT/L/MU/PA dx--- !s !a C++$ UL++++$ P--- L+++$ !E !W++ !N o? K? w--$ !O <br>
+M-@ V? PS+++ PE-- Y? PGP++>+++ !t 5? !X R* !tv b+++ ?DI !D G- e+ h r z?<br>
+------END GEEK CODE BLOCK------ 
+</div>
+
 ## Atom und RSS
 
 Der Blog ist abonierbar.
