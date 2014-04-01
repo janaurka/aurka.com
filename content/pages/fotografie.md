@@ -14,8 +14,8 @@ Die Lizenz der Fotos ist jeweils in Mediagoblin ersichtlich. Bei Unklarheiten bi
 
 Oftmals sind meine Fotos unter der Lizenz CC-by-NC-SA veröffentlicht (bedeutet: das Foto darf für nicht-kommerzielle Zwecke verwendet werden, sofern mein Name genannt wird. Eine kurze Benachrichtigung freut mich natürlich), weil ich der Meinung bin, dass meine Fotos verwendet werden sollen - von wem auch immer. Dies beinhaltet ausdrücklicherweise auch die kommerzielle Verwendung meiner Fotos. Jedoch will ich nicht unentgeltlich für ein Medium meine Fotos freihaus liefern, welches diese dann kommerziell verwendet - also Geld damit verdient.
 
-*Sollten meine Fotos kommerziell verwendet werden sollen, dann bitte ich um eine Mail an jan-fotos[at]aurka[dot]com um das Ganze zu klären* 
-
+__Sollten meine Fotos kommerziell verwendet werden sollen, dann bitte ich um eine Mail an jan-fotos[at]aurka[dot]com um das Ganze zu klären__
+ 
 Um es noch einmal zu wiederholen: Ich bin für eine kommerzielle Verwendung meiner Fotos, jedoch nicht for free.
 
 
