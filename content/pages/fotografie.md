@@ -4,10 +4,6 @@ Slug: fotografie
 
 Ich bin ein freischaffender Fotograf. Dies dürfte alleine durch die Betrachtung dieses [Blogs](http://aurka.com "aurka.cm") oder durch das Betrachten meiner Bilden in [meinem Mediagoblin](http://mediagobli.aurka.com "mediagoblin.aurka.com") bereits aufgefallen sein.
 
-# Wo gibt es Fotos?
-
-Normalerweise schreibe ich einen kleinen Blogeintrag, sobald ich neue Fotos hochgeladen habe. Die ganze Fotoserie ist dann auf [meinem Mediagoblin](http://mediagoblin.aurka.com "http://mediagoblin.aurka.com") zu finden.
-
 # Verwendung der Fotos
 
 Die Lizenz der Fotos ist jeweils in Mediagoblin ersichtlich. Bei Unklarheiten bitte ich um eine Kontaktaufnahme.
