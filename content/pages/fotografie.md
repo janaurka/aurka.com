@@ -36,12 +36,15 @@ Ist leider viel zu teuer. Grundsätzlich mit Nikon Equipment unterwegs.
 
 Momentan:
 
-* Nikon D7000 (Hauptkamera)
-* Nikon D5000 (Backup)
-* Sigma 18-55mm f2.8 (eigentlich immer drauf)
-* Nikkor 35mm f1.8
-* Nikkor 18-105 f3.5-5.6 (das kam halt mit der D5000 mit...)
-* Nikkor 55-300 (:D billig Zoom)
+* Nikon D3
+* Nikon D7000 (Backup) 
+* Nikon D5000 (verstaubt)
+* Sigma 18-55mm f2.8 
+* Nikkor 28-70mm f3.5-4.5
+* Nikkor 50mm f1.8 (FX Version)
+* Nikkor 35mm f1.8 (DX Version)
+* Nikkor 18-105 f3.5-5.6 (Kit  Objektiv)
+* Nikkor 55-300 
 
 (Geschenke werden gerne angenommen ;-) )
 
