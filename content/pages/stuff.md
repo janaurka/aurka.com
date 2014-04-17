@@ -34,4 +34,18 @@ T-Shirts designed von Usern zum Voten freigegeben. Das meistgevotete wird produz
 ### [World‘s End Tattoo](http://www.worldsend.ch "World’s End Tattoo")
 Falls sich jemand in Zürich ein Tattoo stechen lassen will, dann unbedingt hin da!
 
+### [Flying Pizza](http://flyingpizza.ch/) "Flying Pizza") in Zürich Wipkingen
+Bieten beste Pizzas, super Service und waren die ersten mit einer veganen Pizza in der Schweiz. Mampf! 
+
+### [Leet Mate](http://leetmate.de/ "Leet Mate")
+Alternative Mate Limo; aktuell mein Favorit und scheinen nette Leute zu sein.
+
+### [Darktable](http://www.darktable.org/ "Darktable")
+Super FOSS (RAW) Bildbearbeitungs- und Library-Tool. Ähnlich wie Lightroom.
+
+### [xkcd](https://xkcd.com/ "xkcd")
+Einer der besten Tech-Comics ever!
+
+### [Tor](https://www.torproject.org/ "Tor")
+Anonymisierungstool für das Internet.
 
