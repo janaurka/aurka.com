@@ -1,6 +1,6 @@
 Title: Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04 
 Date: 2014-05-16
-Tags: ubuntu, trusty, linux, kvm, libvirt, virt-install, qemu 
+Tags: ubuntu, trusty, linux, kvm, libvirt, virt-install, qemu, debian, virt-install, tech, tahr, howto 
 Category: tech 
 Author: janssen
 
@@ -52,9 +52,14 @@ __Wichtig:__ Überprüft nach dem Download die Checksummen des ISOs. Die korrekt
 
 ## VM generieren
 Mit der Hilfe von `virt-install` kann nun sehr schmerzfrei eine VM erstellt werden:
-	virt-install --connect qemu:///system --name example1 --ram=24109 --vcpus=4 --disk path=/var/vm/example1/example1.qcow2,size=2500,format=qcow2 --cdrom=/var/vm/ISO/ubuntu-14.04-server-amd64.iso --vnc --os-variant=ubuntutrusty --network=bridge:br0,model=virtio
+
+	virt-install --connect qemu:///system --name example1 --ram=24109 --vcpus=4 \
+	--disk path=/var/vm/example1/example1.qcow2,size=2500,format=qcow2 \
+	--cdrom=/var/vm/ISO/ubuntu-14.04-server-amd64.iso --vnc \ 
+	--os-variant=ubuntutrusty --network=bridge:br0,model=virtio
 
 Dieser Befehl erstellt die VM mit:
+
 * Name: example1
 * auf dem Host: localhost (zu sehen am qemu:///system)
 * mit 24GB RAM
@@ -104,6 +109,7 @@ Nun kann Ubuntu 14.04 wie gewohnt über den Installer installiert werden.
 
 # More to come
 Über folgende Punkte dürfe über kurz oder lang noch ein HowTo erscheinen:
+
 * Netzwerkkonfiguration
 * Snapshots im Bezug auf Backups (external snapshots)
 
