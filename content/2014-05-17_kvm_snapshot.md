@@ -45,8 +45,10 @@ Weiter wird mit dem Backup von einem konsistenten Snapshot des Systems ein Bare 
 Dieses HowTo beschreib die Erstellung von Snapshots mit dem Tool `virsh`, weil ich sehr gerne mit wenigen Tools auskomme und beinahe das alles bezüglich QEMU/Libvirt mittels `virsh` gemacht werden kann.
 
 Der Befehl um Snapshots zu erstellen lautet `snapshot-create-as`. Aufgerufen:
+
 	virsh snapshot-create-as <vm-name> <snapshot-name> "<snapshot-description>" --diskspec vda,file=<path-to-new-snapshot-file.qcow2> --disk-only --atomic 
 oder als Beispiel mit example1:
+
 	virsh snapshot-create-as example1 snapshot1_example1 "first snapshot of example1" --diskspec vda,file=/var/vm/example1/snapshot1_example1.qcow2 --disk-only --atomic
 
 Die Parameter bedeuten:
@@ -63,25 +65,31 @@ Nach dem Erstellen wird der Vorgang kontrolliert:
 	virsh snapshot-list neptun-test4
 
 Liefert die Snapshot Daten:
+
 	 Name                 Creation Time             State
 	------------------------------------------------------------
 	 snapshot1_example1  2014-05-17 03:35:41 +0200 disk-snapshot
 
 Der Snapshot wurde also erstellt. Auf der Filesystem-Ebene wurde die Snapshot-Datei ebenfalls erstellt:
+
 	-rw------- 1 libvirt-qemu kvm  232K May 17 03:35 snapshot1_example1.qcow2
 
 Änderungen werden ab der Erstellung kosequent in diese Datei geschrieben. Die alte Image-Datei kann nun ohne Bedenken bezüglich Konsistenz, etc. wegkopiert werden. Beispielsweise mit:
+
 	rsync -avv /var/vm/example1/example1.qcow2 /media/backup/vms/example1/$(date +"%y-%m-%d")-example1.qcow2
 
 Nun ist es an der Zeit den Snapshot wieder los zu werden. Hier ist KVM/QEMU/libvirt jedoch noch nicht soweit, wie man sich dies wünschen könnte.
 Der einfachste Versuch den Snapshot zu löschen (einen Snapshot löschen bedeutet, dass sämtliche Änderungen aus dem Snapshot in die Image-Datei einfliessen. Um zum Stand des Snapshots zu springen ist der Befehl `virsh backup-revert <vm-name> <snapshotname> zu verwenden) failt:
+
 	virsh snapshot-delete example1 snapshot1_example1
 
 Ausgabe:
+
 	error: Failed to delete snapshot snapshot1_example1
 	error: unsupported configuration: deletion of 1 external disk snapshots not supported yet
 
 Wenn der Snapshot schon nicht gelöscht werden kann, dann muss der Inhalt des alten Images halt in den Snapshot eingepflegt werden. Dies geschieht folgendermassen:
+
 	virsh blockpull --domain example1 --path /var/vm/example1/snapshot1_example1.qcow2 --verbose --wait
 
 __Achtung__: Dies funktioniert nur, wenn nur ein Snapshot existiert.
@@ -91,6 +99,7 @@ Dieser Vorgang dauert dann seine Zeit, da das alte Image in den Snapshot eingepf
 	Pull complete
 
 Nun enthält der Snapshot sämtliche Informationen, um die VM zu betreiben. Das Snapshot-Image ist dementsprechend auch gewachsen:
+
 	-rw------- 1 libvirt-qemu kvm  3.1G May 17 03:48 snapshot1_example1.qcow2
 
 Nun kann die alte Image Datei gelöscht werden.
