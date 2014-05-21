@@ -4,8 +4,6 @@ Tags: bestof, foto, photo, raw, nikon, aftershot, darktable, rawtherapee, linux,
 Category: blog 
 Author: janssen
 
-![Header Best of 2013](http://aurka.com/pictures/header_bestof2013.jpg)
-
 Wie unter Menupunkt [Fotografie](http://aurka.com/pages/fotografie.html) nachlesbar, bearbeite ich meine Fotos, welche mir als Nikon-User im .NEF Format vorliegen, entweder mit [Corel AfterShot Pro](http://aftershotpro.com/) oder mit [Darktable](http://www.darktable.org/). Letzteres möchte ich als überzeugter Linux und FOSS Nutzer eigentlich bevorzugen, es gibt allerdings noch einige Ecken, bei denen AfterShot Pro eindeutig die Nase vorne hat.
 
 Heute hat Corel AfterShot Pro 2 veröffentlicht, welches ich mir nun etwas angeschaut habe. Weil auf meinem 64bit Debian Sid das alte AfterShot Pro nicht lief (Debian hat ab Version 6 auf Multiarch umgestellt und dabei existiert das Paket ia32-libs halt nicht mehr, welches von AfterShot Pro benötigt wird) und ich aktuell keinen Zugriff auf einen Windows oder Mac Rechner habe, musste ich in letzter Zeit für alles aus Darktable zurückgreiffen. Besonders bei Portrait Aufnahmen - oder generell Aufnahmen mit Menschen - zeigte sich Darktable AfterShot Pro deutlich unterlegen. Der zweite, nicht zu übersehende Punkt ist das Rauschverhalten der Bilder. Aufnahmen mit höherem ISO konnten unter AfterShot Pro oftmals ziemlich gut hingerichtet werden. Unter Darktable musste von einer Verwendung leider oftmals abgesehen werden. Ein weiteres Minus für Darktable: Ein normaler JPG Export aus Darktable kann ich nicht in meinem Mediagoblin verwenden. Ich muss das Bild immer zurest mit Gimp öffnen und dann exportieren. Der Ursprung des Problems ist noch nicht bekannt.
@@ -55,3 +53,5 @@ Auch wenn ich bis jetzt erst ein bisschen mit AfterShot Pro2 gespielt habe, steh
 Dieser kurze Tests zeigt, dass AfterShot Pro 2 durchgehend die besseren Bilder liefert. Die Farben sind leuchtender, mehr lebendig. Das Rauschverhalten ist besser und Portrait kommen eindeutig besser zur Geltung. 
 
 In Zukunft werde ich wohl hauptsächlich auf AfterShot Pro 2 setzen, die Entwicklung von Darktable jedoch weiter im Auge behalten. Eine FOSS-Applikation für die Fotografie einsusetzen wär halt schon was feines. Da AfterShot Pro 2 nun jedoch unter Debian 64bit sauber läuft, hat es Darktable jedoch einen bedeutend schwereren Stand.
+
+Sämtliche im Artikel gezeigten Bilden sind unter CC-by-NC-SA Lizenziert.
