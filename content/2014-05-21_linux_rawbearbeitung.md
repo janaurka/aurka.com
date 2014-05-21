@@ -54,4 +54,4 @@ Dieser kurze Tests zeigt, dass AfterShot Pro 2 durchgehend die besseren Bilder l
 
 In Zukunft werde ich wohl hauptsächlich auf AfterShot Pro 2 setzen, die Entwicklung von Darktable jedoch weiter im Auge behalten. Eine FOSS-Applikation für die Fotografie einsusetzen wär halt schon was feines. Da AfterShot Pro 2 nun jedoch unter Debian 64bit sauber läuft, hat es Darktable jedoch einen bedeutend schwereren Stand.
 
-Sämtliche im Artikel gezeigten Bilden sind unter CC-by-NC-SA Lizenziert.
+Sämtliche im Artikel gezeigten Bilden sind unter CC-by-NC-SA Lizenziert - falls jemand die NEF-Files will, dann bitte bei mir melden. Pflege auch gerne andere/neue Tests in den Artikel ein.
