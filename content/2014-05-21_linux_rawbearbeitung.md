@@ -25,27 +25,27 @@ Sämtliche Bilder wurden mit meiner Nikon D3 aufgenommen. Selbstverständlich wu
 __Beispiel 1__ Portait:
 
 Darktable:
-![Portrait Darktable](http://aurka.com/pictures/darktable_portrait.jpg =760x)
+<img src="http://aurka.com/pictures/darktable_portrait.jpg" width="760px">
 
 AfterShot Pro 2:
-![Portrait AfterShot Pro 2](http://aurka.com/pictures/afs2_portrait.jpg =760x)
+<img src="pictures/afs2_portrait.jpg" width="760px">
 
 Unter Darktable ist es mir immer sehr schwergefallen, die Hautfarbe nicht 'komisch' aussehen zu lassen. Das habe ich nie wirklich hinbekommen. Dadurch sehen Serien unter Darktable (bei mir) oftmals etwas seltsam aus.
 
 __Beispiel 2__ High ISO by night:
 
 Darktable:
-![High ISO Darktable](http://aurka.com/pictures/darktable_iso.jpg =760x)
+<img src="pictures/darktable_iso.jpg" width="760px">
 
 AfterShot Pro 2:
-![High ISO AfterShot Pro 2](http://aurka.com/pictures/afs2_iso.jpg =760x)
+<img src="pictures/afs2_iso.jpg" width="760px">
 
 __Beispiel 3__ Objekte bei guten Lichtbedingungen (hier Streetart):
 
-![Objekte bei guten Lichtbedingungen Darktable](http://aurka.com/pictures/darktable_art.jpg =760x)
+<img src="http://aurka.com/pictures/darktable_art.jpg" width="760px">
 
 AfterShot Pro 2:
-![Objekte bei guten Lichtbedingungen AfterShot Pro 2](http://aurka.com/pictures/afs2_art.jpg =760x)
+<img src="http://aurka.com/pictures/afs2_art.jpg" width="760px">
 
 Hier ist der Unterschied zwischen Darktable und AfterShot Pro mit Abstand am geringsten. Obwohl auch hier ein qualitativer Unterschied zu gunsten für AfterShot Pro existiert. Die Farben wirken lebendiger.
 
