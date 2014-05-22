@@ -29,6 +29,7 @@ Um KVM einzusetzen, wie später beschrieben, werden folgende Pakete benötigt:
 * qemu-kvm
 
 Diese können wie gewohnt bequem via `apt` installiert werden:
+
 	apt-get install libvirt0 libvirt-bin virtinst virt-goodies qemu-kvm
 
 __Info:__ Natürlich muss die Netzwerkkonfiguration angepasst werden. Hierfür gibt es diverse Varianten. Seit Kernel 3.3 ist grundsätzlich der Open vSwitch für das Networking zuständig. Bis dahin wurde oftmals mit normalen Linux Bridges gearbeitet. Hierzu wird noch ein Artikel folgen.
@@ -39,15 +40,18 @@ Weiter wird natürlich ein Verzeichnis benötigt, in welchem die Image-Dateien d
 # Erstellen der VM
 ## Imagedatei erstellen
 Als erstes muss für die VM ein Image erstellt werden. Dies übernimmt das Tool `qemu-img`. Hier der Befehl:
+
 	qemu-img create -f qcow2 /var/vm/example1/example.qcow2 1.5T
 
 Dieser Befehl erstellt ein Image File im qcow2 Format, welches 1.5TB groß ist. Effektiv ist das File nur wenige KB groß; es wächst dann mit dem Image dynamisch.
 
 ## ISO herunterladen
 Das ISO für die Installation von Ubuntu wird benötigt und kann von einem x-beliebigen Mirror heruntergeladen werden. Beispielsweise mit:
+
 	wget http://mirror.switch.ch/ftp/ubuntu-cdimage/14.04/ubuntu-14.04-server-amd64.iso
 
 __Wichtig:__ Überprüft nach dem Download die Checksummen des ISOs. Die korrekten Checksums sind [hier](http://mirror.switch.ch/ftp/ubuntu-cdimage/14.04/SHA256SUMS) zu finden. Unter Debian/Ubuntu kann die Checksumme des heruntergeladenen ISOs so erstellt werden:
+
 	sha256sum <ISO-File>
 
 ## VM generieren
