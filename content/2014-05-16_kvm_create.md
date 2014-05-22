@@ -91,7 +91,7 @@ Dort existiert nun eine example1.xml Datei. Kurze Kontrolle, ob bei der VM angek
 
 	<disk type='file' device='disk'>
 		<driver name='qemu' type='qcow2'/>
-		<source file='/var/vm/neptun-test4/neptun-test4.qcow2'/>
+		<source file='/var/vm/example1/example1.qcow2'/>
 		<target dev='vda' bus='virtio'/>
 		<address type='pci' domain='0x0000' bus='0x00' slot='0x04' function='0x0'/>
 	</disk>
