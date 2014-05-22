@@ -110,11 +110,9 @@ Für einen lokalen Zugriff muss nicht auf SSH zurückgegriffen werden:
 
 Nun kann Ubuntu 14.04 wie gewohnt über den Installer installiert werden.
 
+# Weitere Artikel zum Thema KVM unter Ubuntu 14.04
 
-# More to come
-Über folgende Punkte dürfe über kurz oder lang noch ein HowTo erscheinen:
-
-* Netzwerkkonfiguration
-* Snapshots im Bezug auf Backups (external snapshots)
+* [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
+* [Open vSwitch mit KVM unter Ubuntu 14.04](http://aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
 
 Anmerkungen und Korrekturen bitte via [Kontakt](http://aurka.com/pages/about.html)
