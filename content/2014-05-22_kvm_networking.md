@@ -4,10 +4,7 @@ Tags: ubuntu, trusty, linux, kvm, libvirt, qemu, debian, tech, howto, ovs, open,
 Category: tech 
 Author: janssen
 
-Dies ist der dritte Post zum Thema Ubuntu 14.04 und KVM. Dieser behandelt das Thema 'Networking', wobei ich mit Open vSwitch arbeiten werde. Die ersten beiden Artikel sind:
-
-* [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html).
-* [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
+Dies ist der dritte Post zum Thema Ubuntu 14.04 und KVM. Dieser behandelt das Thema 'Networking', wobei ich mit Open vSwitch arbeiten werde. Die ersten beiden Artikel sind [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html) und [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html).
 
 # Umgebung
 Sämtliche Informationen gelten für folgende Testumgebung:
