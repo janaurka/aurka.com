@@ -110,6 +110,7 @@ Vom System wurde auf diese Art und Weise ein sauberes Bare Metal Backup erstellt
 
 # Weitere Artikel zum Thema KVM unter Ubuntu 14.04
 * [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
+* [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
 * [Open vSwitch mit KVM unter Ubuntu 14.04](http://aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
 
 Anmerkungen und Korrekturen bitte via [Kontakt](http://aurka.com/pages/about.html)

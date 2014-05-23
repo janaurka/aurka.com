@@ -38,6 +38,8 @@ Weiter wird natürlich ein Verzeichnis benötigt, in welchem die Image-Dateien d
 
 
 # Erstellen der VM
+Beschrieben wird die Installation einen Linux/UNIX-VM. Wie eine Windows-VM erstellt wird, wird unter [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html) beschrieben.
+
 ## Imagedatei erstellen
 Als erstes muss für die VM ein Image erstellt werden. Dies übernimmt das Tool `qemu-img`. Hier der Befehl:
 
@@ -112,6 +114,7 @@ Nun kann Ubuntu 14.04 wie gewohnt über den Installer installiert werden.
 
 # Weitere Artikel zum Thema KVM unter Ubuntu 14.04
 
+* [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
 * [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
 * [Open vSwitch mit KVM unter Ubuntu 14.04](http://aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
 

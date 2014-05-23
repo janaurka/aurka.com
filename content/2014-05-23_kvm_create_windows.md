@@ -1,6 +1,6 @@
 Title: Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04 
 Date: 2014-05-23
-Tags: ubuntu, trusty, linux, kvm, libvirt, virt-install, qemu, debian, virt-install, tech, tahr, howto, windows, win7 
+Tags: ubuntu, trusty, linux, kvm, libvirt, qemu, debian, virt-install, tech, howto, windows, win7 
 Category: tech 
 Author: janssen
 
@@ -79,6 +79,7 @@ Nun ist Windows voll funktionsfähig und einsetzbar. Das Windows7 läuft hier mi
 
 # Weitere Artikel zum Thema KVM unter Ubuntu 14.04
 
+* [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
 * [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
 * [Open vSwitch mit KVM unter Ubuntu 14.04](http://aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
 
