@@ -83,8 +83,8 @@ Kontrolliert werden kann das Ganze mit folgendem Befehl:
 
 	ovs-vsctl show
 
-## Open vSwtich mit Bonding (802.3ad)
-Der Open vSwtich unterstützt Bonding Techniken wie IEEE 802.3ad. Hierfür kann theoretisch ein Bond-Port dem Switch hinzugefügt werden. Dies geschieht folgendermassen:
+## Open vSwitch mit Bonding (802.3ad)
+Der Open vSwitch unterstützt Bonding Techniken wie IEEE 802.3ad. Hierfür kann theoretisch ein Bond-Port dem Switch hinzugefügt werden. Dies geschieht folgendermassen:
 
 	ovs-vsctl add-bond <Switch> <Bondname> <interface> (<interface> ...) lacp=active
 
