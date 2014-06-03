@@ -8,7 +8,7 @@ Author: janssen
 
 Seit der [Installation von Mediagoblin auf meinem Uberspace](http://aurka.com/mediagoblin-auf-uberspace.html) ist nun über ein halbes Jahr vergangen - Zeit um ein kurzes Fazit zu ziehen:
 
-Mediagoblin macht sich gut. Die Wartung ist leicht, Updates funktionierten bis jetzt ohne größere Probleme und das Programm machte auch ansonsten keine größeren Probleme. Was bleibt sind (leider; wie so oft) diverse Kinderkrankheiten, welche hoffentlich bald aus der Welt geschafft werden. Bis jetzt habe ich meine Entscheidung, meine Fotos (und es sind bis jetzt effektiv nur Fotos geblieben) auf meiner eigenen Mediagoblin-Instanz zu hosten, nie bereut. Ich habe die volle Kontrolle über meine Fotos, kann Mediagoblin ohne weiter anpassen und muss mir keine Hilfe von bloated Wordrpess Themes oder so holen, die zwar fancy aussehen, aber wohl alleine beim Gedanken auf solch ein Produkt zu bauen, lässt mich erschaudern.
+Mediagoblin macht sich gut. Die Wartung ist leicht, Updates funktionierten bis jetzt ohne zusätzliche Handarbeit und das Programm machte auch ansonsten keine größeren Probleme. Was bleibt sind (leider; wie so oft) diverse Kinderkrankheiten, welche hoffentlich bald aus der Welt geschafft werden. Bis jetzt habe ich meine Entscheidung, meine Fotos (und es sind bis jetzt effektiv nur Fotos geblieben) auf meiner eigenen Mediagoblin-Instanz zu hosten, nie bereut. Ich habe die volle Kontrolle über meine Fotos, kann Mediagoblin ohne weiter anpassen und muss mir keine Hilfe von bloated Wordrpess Themes oder so holen, die zwar fancy aussehen, aber wohl alleine beim Gedanken auf solch ein Produkt zu bauen, lässt mich erschaudern.
 
 ![Mediagoblin Fehler](pictures/mediagoblin_error.jpg)
 
