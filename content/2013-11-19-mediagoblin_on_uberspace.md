@@ -6,6 +6,7 @@ Slug: mediagoblin-auf-uberspace
 Author: janssen
 
 ![Mediagoblin](http://www.aurka.com/pictures/mediagoblin_header.png)
+(Zuletzt aktualisiert am 3. Juni 2014; kleinere Ergänzungen)
 
 Bei den [Ubernauten](https://uberspace.de "Uberspace.de") lässt sich [Mediagoblin](http://www.mediagoblin.org/ "Mediagoblin.org") installieren - auch wenn es doch ziemlich viel gebastel ist. Ich hoffe ich kann jemandem mit dieser Anleitung ein paar Minuten/Stunden Arbeit ersparen.
 
@@ -20,6 +21,8 @@ Diese Anleitung verwendet Postgres als Datenbank für Mediagoblin. Defaultmässi
 
 Wir müssen also zuerst postgres für den Uberspace konfigurieren. Hierfür muss nur ein Script angekickt werden:
 	uberspace-setup-postgresql
+
+Nun sollte man sich laut uberspace-doku einmal neu einloggen.
 
 User erstellen:
 
@@ -61,6 +64,7 @@ Jetzt verfügen wir über eine eigene virtuelle Python-Umgebung, fügen wir nun 
 
 Mediagoblin benötigt zusätzlich die Python Image Library (PIL). Dort gibt es jedoch etwas handarbeit, deshalb wird es nicht via Paketmanager installiert:
 Aktuellste PIL Version von der [PIL-Homepage](http://www.pythonware.com/products/pil/ "PIL Homepage") herunterladen.
+(Sollten Probleme mit PIL aufkommen: Die Ubernauten stellen eine eigene Dokumententation zur Installation von PIL zu verfügung. Diese ist [hier](https://wiki.uberspace.de/development:python#pil) zu finden.)
 
 	mkdir PIL
 	wget http://effbot.org/downloads/Imaging-1.1.7.tar.gz
@@ -179,6 +183,7 @@ Bei mir sieht dann `~/etc/run-mediagoblin/run` folgendermassen aus:
 
 
 Nun muss einzig noch nach `~/service` gelinkt werden:
+
 	ln -s ~/etc/run-mediagoblin/ ~/service/mediagoblin
 
 Mediagoblin läuft nun als Service. Viel Spaß beim verwenden!
@@ -194,4 +199,7 @@ Korrekturen, Bugfixes, etc. bitte an mich herantragen, damit ich die Doku verbes
 [Offizielles Mediagoblin Wiki](http://mediagoblin.readthedocs.org/en/v0.5.1/siteadmin/deploying.html "Mediagoblin Wiki")
 
 # Dankeschön
-An Christopher von der Ubernauten fürs weiterhelfen beim FastCGI deployment!
+
+* Christopher von der Ubernauten fürs weiterhelfen beim FastCGI deployment!
+
+* Gizu für einige Anpassungen, welche ich nun endlich eingepflegt habe
