@@ -1,7 +1,7 @@
-Title: Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04 
+Title: Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04
 Date: 2014-05-17
-Tags: ubuntu, trusty, linux, kvm, libvirt, snapshot, qemu, debian, external, tech, tahr, howto 
-Category: tech 
+Tags: ubuntu, trusty, linux, kvm, libvirt, snapshot, qemu, debian, external, tech, tahr, howto
+Category: tech
 Author: janssen
 
 Dies ist der zweite Post zum Thema Ubuntu 14.04 und KVM. Dieser behandelt das Thema 'Snapshots', wobei ich hauptsächlich auf sogenannt 'external' Snapshots eingehen werde. Der erste Artikel bezüglich der Erestellung von VMs gibt es hier: [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html).
@@ -32,10 +32,10 @@ Um Snapshots zu erstellen wird natürlich mindestens eine VM benötigt. Ich besc
 KVM und seine Werkzeuge können von bestimmten Image Formaten Snapshots erstellen. Oft verwendet werden LVMs (die können auch ohne KVM snapshotten) und qcow2. Letzters wird in diesem HowTo behandelt.
 Grundsätzlich gibt es zwei sich unterscheidende Arten von Snapshots. Es gibt:
 
-* __interne Snapshots__: Interne Snapshots werden innerhalb eines qcow2 Images erstellt. Von ausserhalb ist nicht sofort ersichtlich, ob und wenn ja, wie viele Snapshots das Imagefile besitzt. Sämtliche Änderungen bleiben also in einem File kompakt zusammen. Dies hat den Vorteil, dass man sich nur um eine Datei kümmern muss. Dies lohnt sich jedoch offensichtlich nur, um Tests zu fahren, welche im Notfall rückgängig gemacht werden können. Die Image-Datei kann ziemlich überfallartig anwachsen. Besonders, wenn der aktuelle Stand der VM mitgesichert werden soll, da der Inhalt des RAMs ebenfalls im Image landet. Interne Snapshots können mit dem Argument `--live` von einem Live-System erstellt werden. 
+* __interne Snapshots__: Interne Snapshots werden innerhalb eines qcow2 Images erstellt. Von ausserhalb ist nicht sofort ersichtlich, ob und wenn ja, wie viele Snapshots das Imagefile besitzt. Sämtliche Änderungen bleiben also in einem File kompakt zusammen. Dies hat den Vorteil, dass man sich nur um eine Datei kümmern muss. Dies lohnt sich jedoch offensichtlich nur, um Tests zu fahren, welche im Notfall rückgängig gemacht werden können. Die Image-Datei kann ziemlich überfallartig anwachsen. Besonders, wenn der aktuelle Stand der VM mitgesichert werden soll, da der Inhalt des RAMs ebenfalls im Image landet. Interne Snapshots können mit dem Argument `--live` von einem Live-System erstellt werden.
 * __externe Snapshots__: Externe Snapshots eignen sich dafür gut, um ein Bare-Metal Backup einer VM zu erstellen. Diese externen Snapshots funktionieren in etwa so, wie von ESXi bekannt. Ein Snapshot erstellt eine neue Image-Datei, welch Änderungen speichert. Die 'alte' Image-Datei ist somit konsistent (sofern die VM zum Stand des Snapshots konsistent war) und kann einfach wegkopiert werden.
 
-Obwohl Snapshots auf den ersten Blick ein Segen sind, sollte sehr vorsichtig mit ihnen umgegangen werden. Man sollte immer darauf bedacht sein, möglichst wenige (am besten gar keine) Snapshots auf einem System zu haben, weil diese das System verlangsamen und sehr gerne Quota/FS/HD Grenzen sprengen, weil es sich um eine neue, teilweise extrem schnell wachsende Datei handelt. Wer also Snapshots für Backups verwendet, sollte darauf bedacht sein, die Snapshots so bald wie möglich wieder los zu werden. 
+Obwohl Snapshots auf den ersten Blick ein Segen sind, sollte sehr vorsichtig mit ihnen umgegangen werden. Man sollte immer darauf bedacht sein, möglichst wenige (am besten gar keine) Snapshots auf einem System zu haben, weil diese das System verlangsamen und sehr gerne Quota/FS/HD Grenzen sprengen, weil es sich um eine neue, teilweise extrem schnell wachsende Datei handelt. Wer also Snapshots für Backups verwendet, sollte darauf bedacht sein, die Snapshots so bald wie möglich wieder los zu werden.
 
 Gedanken sollte man sich auch zum Thema 'wann erstelle ich den Snapshot' machen. `virsh` erstellt ohne Probleme Snapshots von laufenden Systemen. Bei externen Snapshots wird die `--live` Option jedoch (noch) nicht unterstützt. Deshalb ist es wohl sinnvoll, wenn nicht äusserst empfehlenswert, die Snapshots von einem heruntergefahrenem System zu machen. Da Uptime bei mir nicht kritisch ist, kann ich ohne Problem mit ein paar Sekunden/Minuten Downtime auskommen. Wenn ein Snapshot einer laufenden VM erstellt wird, wechselt die VM in den Stataus 'paused'. Der Snapshot ist also grundsätzlich konsistent. Die Frage ist mehr, ob die Daten genau zu dem Zeitpunkt es auch waren. Es ist beispielsweise gut möglich, dass die Datenbank gerade Transaktionen am laufen hat (oder ähnliches) und dies dann zu Problemen führt. Grundsätzlich gilt: Wenn man es sich leisten kann Offline-Snapshots zu erstellen, dann ist man sicherlich auf der sicheren Seite.
 
@@ -47,7 +47,7 @@ Dieses HowTo beschreib die Erstellung von Snapshots mit dem Tool `virsh`, weil i
 
 Der Befehl um Snapshots zu erstellen lautet `snapshot-create-as`. Aufgerufen:
 
-	virsh snapshot-create-as <vm-name> <snapshot-name> "<snapshot-description>" --diskspec vda,file=<path-to-new-snapshot-file.qcow2> --disk-only --atomic 
+	virsh snapshot-create-as <vm-name> <snapshot-name> "<snapshot-description>" --diskspec vda,file=<path-to-new-snapshot-file.qcow2> --disk-only --atomic
 oder als Beispiel mit example1:
 
 	virsh snapshot-create-as example1 snapshot1_example1 "first snapshot of example1" --diskspec vda,file=/var/vm/example1/snapshot1_example1.qcow2 --disk-only --atomic
@@ -55,11 +55,11 @@ oder als Beispiel mit example1:
 Die Parameter bedeuten:
 
 * snapshot-create-as: Erstellt einen Snapshot von Disk und RAM.
-* diskspec: Gibt die Diskattribute an. 
+* diskspec: Gibt die Diskattribute an.
 * disk-only: Gibt an, dass nur die Disk und nicht auch noch der VM-Stand gesnapshotted werden soll
 * atomic: Führt den Snapshot nur aus, wenn dieser konsistent erstellt werden kann. Ansontest failt der Snapshot.
 
-Interne Snapshots werden beinahe gleich erstellt. Das Argument `disk-only` bestimmt jedoch, dass es sich um einen externen Snapshot handelt. 
+Interne Snapshots werden beinahe gleich erstellt. Das Argument `disk-only` bestimmt jedoch, dass es sich um einen externen Snapshot handelt.
 
 Nach dem Erstellen wird der Vorgang kontrolliert:
 
@@ -112,5 +112,6 @@ Vom System wurde auf diese Art und Weise ein sauberes Bare Metal Backup erstellt
 * [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
 * [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
 * [Open vSwitch mit KVM unter Ubuntu 14.04](http://aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
+* [Konvertierung von ESXi-VMs zu KVM unter Ubuntu 14.04](2014-06-6_kvm_convert_from_esxi.html)
 
 Anmerkungen und Korrekturen bitte via [Kontakt](http://aurka.com/pages/about.html)

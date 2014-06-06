@@ -1,7 +1,7 @@
-Title: Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04 
+Title: Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04
 Date: 2014-05-16
-Tags: ubuntu, trusty, linux, kvm, libvirt, virt-install, qemu, debian, virt-install, tech, tahr, howto 
-Category: tech 
+Tags: ubuntu, trusty, linux, kvm, libvirt, virt-install, qemu, debian, virt-install, tech, tahr, howto
+Category: tech
 Author: janssen
 
 Infolge vom Wechsel von VMWare ESXi 5.x zu KVM wird es an dieser Stelle einige Artikel zum Thema KVM (Kernel based Virtual Machine) geben. Diese Artikel sind auf Ubuntu 14.04 Trusty Tahr abgestimmt - nicht weil ich Ubuntu extrem mag, aber weil Ubuntu 14.04 für dieses Projekt eingesetzt wird.
@@ -61,7 +61,7 @@ Mit der Hilfe von `virt-install` kann nun sehr schmerzfrei eine VM erstellt werd
 
 	virt-install --connect qemu:///system --name example1 --ram=24109 --vcpus=4 \
 	--disk path=/var/vm/example1/example1.qcow2,size=2500,format=qcow2 \
-	--cdrom=/var/vm/ISO/ubuntu-14.04-server-amd64.iso --vnc \ 
+	--cdrom=/var/vm/ISO/ubuntu-14.04-server-amd64.iso --vnc \
 	--os-variant=ubuntutrusty --network=bridge:br0,model=virtio
 
 Dieser Befehl erstellt die VM mit:
@@ -104,7 +104,7 @@ Solange `<driver name='qemu' type='qcow2' />` in der XML-Datei steht, ist soweit
 ## Installation VM
 Nun muss die VM noch installiert werden. Hierfür kann mit dem Werkzeug `virt-viewer` via VNC auf die VM zugegriffen werden. Hierfür wird X benötigt, deshalb greife ich von einem Client vie `virt-viewer` auf die VM zu. Dies funktioniert folgendermassen:
 
-	virt-viewer -c qemu+ssh://<user>@<kvm-host>/system example1 
+	virt-viewer -c qemu+ssh://<user>@<kvm-host>/system example1
 
 Für einen lokalen Zugriff muss nicht auf SSH zurückgegriffen werden:
 
@@ -117,5 +117,6 @@ Nun kann Ubuntu 14.04 wie gewohnt über den Installer installiert werden.
 * [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
 * [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
 * [Open vSwitch mit KVM unter Ubuntu 14.04](http://aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
+* [Konvertierung von ESXi-VMs zu KVM unter Ubuntu 14.04](2014-06-6_kvm_convert_from_esxi.html)
 
 Anmerkungen und Korrekturen bitte via [Kontakt](http://aurka.com/pages/about.html)

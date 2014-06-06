@@ -1,7 +1,7 @@
-Title: Open vSwitch mit KVM unter Ubuntu 14.04 
+Title: Open vSwitch mit KVM unter Ubuntu 14.04
 Date: 2014-05-22
-Tags: ubuntu, trusty, linux, kvm, libvirt, qemu, debian, tech, howto, ovs, open, vSwitch, network 
-Category: tech 
+Tags: ubuntu, trusty, linux, kvm, libvirt, qemu, debian, tech, howto, ovs, open, vSwitch, network
+Category: tech
 Author: janssen
 
 Dies ist der dritte Post zum Thema Ubuntu 14.04 und KVM. Dieser behandelt das Thema 'Networking', wobei ich mit Open vSwitch arbeiten werde. Die ersten beiden Artikel sind [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html) und [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html).
@@ -48,7 +48,7 @@ Beispiele hier mit examplebr0:
 	ovs-vsctl add-br examplebr0
 
 Der vSwitch ist nun erstellt, hat jedoch erst einen Port (sozusagen sich selbst) und ist nicht angeschlossen. Nun wird ihm ein Port hinzugefügt, über welchen dann später die Zugriffe erfolgen:
-	
+
 	ovs-vsctl add-port examplebr0 examplebr0p1 -- set interface examplebr0p1 type=internal
 
 (Dieser Schritt könnte soweit ich das sehe grundsätzlich weggelassen werden; grundsätzlich finde ich es jedoch gut, das alles über p1 läuft und nicht über den generischen Namen `examplebr0`.)
@@ -58,11 +58,11 @@ Bevor der vSwitch an einem Interface angemacht wird, muss folgendes beachtet wer
 
 Der soeben erstellte Port `examplebr0p1` wird nun in `/etc/network/interfaces` konfiguriert:
 
-	auto examplebr0p1 
+	auto examplebr0p1
 	iface examplebr0p1 inet static
-	address <ip; 192.168.1.100> 
+	address <ip; 192.168.1.100>
 	gateway <gateway; 192.168.1.1>
-	netmask <netmask; 255.255.255.0> 
+	netmask <netmask; 255.255.255.0>
 
 Die physischen Interfaces, welche am vSwitch angeschlossen werden sollen, müssen nun noch so umkonfiguriert werden, dass sie hochkommen (up), wenn der Server startet. Das Beispiel zeigt `eth0`:
 
@@ -94,7 +94,7 @@ Also beispielsweise:
 
 `lacp=active` definiert, dass für dieses Bond 802.3ad aktiviert sein soll.
 
-__Wichtig:__ Ich habe diese Konfiguration bis jetzt nicht hingekriegt. Der Switch war von ausserhalb nie ansprechbar. Bis jetzt noch keine Ahnung, wieso dem so ist. Grundsätzlich könnte das Problem umgangen werden, indem auf der Linux Networking-Ebene ein Bond erstellt wird und dieser dann als einzelner Port dem vSwitch hinzugefügt wird. 
+__Wichtig:__ Ich habe diese Konfiguration bis jetzt nicht hingekriegt. Der Switch war von ausserhalb nie ansprechbar. Bis jetzt noch keine Ahnung, wieso dem so ist. Grundsätzlich könnte das Problem umgangen werden, indem auf der Linux Networking-Ebene ein Bond erstellt wird und dieser dann als einzelner Port dem vSwitch hinzugefügt wird.
 
 # Open vSwitch in KVM/libvirt integrieren
 Nachdem der vSwitch erstellt wurde, muss nun noch KVM, respektive `libvirt` für den vSwitch konfiguriert werden. Direkt nach dem Aufsetzen von `libvirt` besteht normalerweise ein Netzwerk mit dem Namen `default`. Dieses kann zuerst gelöscht werden:
@@ -153,7 +153,7 @@ Nun beherrscht `virt-install` leider (noch) keine Erstellung von VMs mit Open vS
 
 	virt-install --connect qemu:///system --name example1 --ram=24109 --vcpus=4 \
 	--disk path=/var/vm/example1/example1.qcow2,size=2500,format=qcow2 \
-	--cdrom=/var/vm/ISO/ubuntu-14.04-server-amd64.iso --vnc \ 
+	--cdrom=/var/vm/ISO/ubuntu-14.04-server-amd64.iso --vnc \
 	--os-variant=ubuntutrusty --nonetworks
 
 Nun kann die VM installiert werden. Wenn hierfür Netzwerk benötigt wird muss bereits vor der Installation die Konfiguration der VM verändert werden. Ansonsten muss dies einfach gemacht werden, sobald Netzwerk benötigt wird. Die VM muss hierfür ausgeschaltet sein (respektive die Veränderungen werden erst aktiv, wenn die Maschine via `virsh` neu gestartet wird -> das XML File muss neu eingelesen werden):
@@ -173,7 +173,7 @@ Nun ist die VM an den vSwitch angeschlossen. Überpüft werden kann dies wiederu
 	ovs-vsctl show
 
 Dieser liefert folgendes zurück:
-	
+
 	Bridge "examplebr0"
            Port "eth0"
                Interface "eth0"
@@ -189,10 +189,11 @@ Dieser liefert folgendes zurück:
 
 Neu ist der Port `vnet0`. Der Open vSwitch wird nun für das Networking unter KVM verwendet.
 
-# Weitere Artikel zum Thema KVM unter Ubuntu 14.04 
+# Weitere Artikel zum Thema KVM unter Ubuntu 14.04
 
 * [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
 * [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
 * [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
+* [Konvertierung von ESXi-VMs zu KVM unter Ubuntu 14.04](2014-06-6_kvm_convert_from_esxi.html)
 
 Anmerkungen und Korrekturen bitte via [Kontakt](http://aurka.com/pages/about.html)
