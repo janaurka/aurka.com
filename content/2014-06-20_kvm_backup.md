@@ -1,5 +1,5 @@
-Title: Einfaches Backups von QCOW2 basierten KVM Maschinen
-Date: 2014-05-17
+Title: Einfaches Backup von QCOW2 basierten KVM Maschinen
+Date: 2014-06-20
 Tags: ubuntu, trusty, linux, kvm, libvirt, snapshot, qemu, debian, backup, qcow2, vm, howto
 Category: tech
 Author: janssen
