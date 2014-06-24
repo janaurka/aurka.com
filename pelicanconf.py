@@ -3,11 +3,11 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'janssen'
-SITENAME = u'aurka.com'
-SITESUBTITLE = u'under heavy development'
-SITEURL = 'http://aurka.com'
+SITENAME = u'blog.aurka.com'
+SITESUBTITLE = u't'
+SITEURL = 'http://blog.aurka.com'
 
-THEME = 'themes/aurka_1'
+THEME = 'themes/dopetrope'
 
 MENUITEMS = (('Home', 'http://aurka.com'),('Bilder / Mediagoblin', 'http://mediagoblin.aurka.com/mediagoblin/mg.fcgi/u/janssen/'),('Fotografie', 'http://aurka.com/pages/fotografie.html'),('Tech-Posts', 'http://aurka.com/category/tech.html'),('About', 'http://aurka.com/pages/about.html'),('Links', 'http://aurka.com/pages/links.html'),)
 
