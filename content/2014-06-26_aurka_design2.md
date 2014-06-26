@@ -1,6 +1,6 @@
 Title: aurka.com in neuem Design
 Date: 2014-06-26
-Tags: Demonstration, zurich, recht, stadt, gentrification, squat, aufwertung
+Tags: redesign, new, design, html5, mobile, 
 Picture: aurka2_header.png
 Category: blog
 Author: janssen
