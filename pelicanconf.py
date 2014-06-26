@@ -3,46 +3,34 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'janssen'
-SITENAME = u'aurka.com'
-SITESUBTITLE = u'under heavy development'
-SITEURL = 'http://aurka.com'
+SITENAME = u'blog.aurka.com'
+SITEURL = 'localhost:8000'
 
-THEME = 'themes/aurka_1'
-
-MENUITEMS = (('Home', 'http://aurka.com'),('Bilder / Mediagoblin', 'http://mediagoblin.aurka.com/mediagoblin/mg.fcgi/u/janssen/'),('Fotografie', 'http://aurka.com/pages/fotografie.html'),('Tech-Posts', 'http://aurka.com/category/tech.html'),('About', 'http://aurka.com/pages/about.html'),('Links', 'http://aurka.com/pages/links.html'),)
+THEME = 'themes/html5-dopetrope'
 
 TIMEZONE = 'Europe/Paris'
-DEFAULT_DATE_FORMAT = ('%d.%m.%Y')
-
 
 DEFAULT_LANG = u'de'
+DEFAULT_DATE_FORMAT = ('%d.%m.%Y')
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = 'feeds/all.atom.xml' 
-
-FEED_ALL_RSS = 'feeds/all.rss.xml'
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-#LINKS =  (('My Photos on 500px', 'http://500px.com/0xTry'),
-#          ('My Twitter Accoutn', 'https://twitter.com/0xTry'),)
+LINKS =  (('Pelican', 'http://getpelican.com/'),
+          ('Python.org', 'http://python.org/'),
+          ('Jinja2', 'http://jinja.pocoo.org/'),
+          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-#SOCIAL = (('Twitter', 'https://twitter.com/0xTry'),
-#          ('500px', 'http://500px.com/0xTry'),)
+SOCIAL = (('You can add links in your config file', '#'),
+          ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 7
-
-# Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
-
-
-DISPLAY_CATEGORIES_ON_MENU = False
-DISPLAY_PAGES_ON_MENU = False
+DEFAULT_PAGINATION = 5
 
 STATIC_PATHS = ["pictures", "krimskrams", ]
 
-
-#Piwik
-
-PIWIK_URL = 'piwik.aurka.com'
-PIWIK_SITE_ID = 2
+# Uncomment following line if you want document-relative URLs when developing
+#RELATIVE_URLS = True
