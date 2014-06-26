@@ -1,10 +1,9 @@
 Title: Demonstration gegen Rassismus in Bern
 Date: 2014-03-01
-Tags: Demonstration, Bern, Bilder, Foto, AntiRa, Rassismus, Antifa 
-Category: blog 
+Tags: Demonstration, Bern, Bilder, Foto, AntiRa, Rassismus, Antifa
+Category: blog
+Picture: header_antirabern.jpg
 Author: janssen
-
-![Demonstration gegen Rassimus in Bern](http://aurka.com/pictures/header_antirabern.jpg)
 
 Am 1. März 2014 gab es in Bern eine Demonstration mit etwa 1000 Menschen gegen Rassismus. Die Polizei hielt sich weitestgehend zurück und liess die Demonstration quer durch Bern ziehen. Die Demonstranten führten Transparente mit Aufschriften wie ‘Refugees welcome’, ‘No Borders - No Nations’ oder ‘Rassisten aufs Maul’ mit sich und sorgten mit Musik und Parolen für viel Aufmerksamkeit. Die Demonstration verlief friedlich und endete auf dem Bundesplatz, wo weitere ca. 2-3000 Leute eine Platzkundgebung unter dem Motto ‘Für eine offene und solidarische Schweiz’ mit diversen Bands und Reden durchführten.
 
@@ -16,4 +15,3 @@ Weiter Bilder gibt es unter [mediagoblin.aurka.com](http://mediagoblin.aurka.com
 Bezüglich kommerzieller Verwendung der Bilder bitte ich um ein Mail an mediagoblin@aurka.com
 
 Sämtliche Bilder stehen grundsätzlich unter CC-by-NC-SA.
-

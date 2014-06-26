@@ -3,22 +3,25 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'janssen'
-SITENAME = u'aurka.com'
-SITESUBTITLE = u'under heavy development'
-SITEURL = 'http://aurka.com'
+SITENAME = u'blog.aurka.com'
+#SITESUBTITLE = u''
+SITEURL = 'http://blog.aurka.com'
 
-THEME = 'themes/aurka_1'
+THEME = 'themes/html5-dopetrope'
 
-MENUITEMS = (('Home', 'http://aurka.com'),('Bilder / Mediagoblin', 'http://mediagoblin.aurka.com/mediagoblin/mg.fcgi/u/janssen/'),('Fotografie', 'http://aurka.com/pages/fotografie.html'),('Tech-Posts', 'http://aurka.com/category/tech.html'),('About', 'http://aurka.com/pages/about.html'),('Links', 'http://aurka.com/pages/links.html'),)
+#MENUITEMS = (('Home', 'http://aurka.com'),('Bilder / Mediagoblin', 'http://mediagoblin.aurka.com/mediagoblin/mg.fcgi/u/janssen/'),('Fotografie', 'http://aurka.com/pages/fotografie.html'),('Tech-Posts', 'http://aurka.com/category/tech.html'),('About', 'http://aurka.com/pages/about.html'),('Links', 'http://aurka.com/pages/links.html'),)
 
 TIMEZONE = 'Europe/Paris'
 DEFAULT_DATE_FORMAT = ('%d.%m.%Y')
 
+# Customizing
+ABOUT_LINK = 'http://blog.aurka.com/pages/about.html'
+ABOUT_IMAGE = 'freshpaint.jpg'
 
 DEFAULT_LANG = u'de'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = 'feeds/all.atom.xml' 
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
 
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 

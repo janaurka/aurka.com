@@ -1,11 +1,11 @@
-Title: Mediagoblin auf einem Uberspace 
+Title: Mediagoblin auf einem Uberspace
 Date: 2013-11-19
 Tags: mediagoblin, uberspace, install, deploy, howto, tech, python, pypi, pip, easy_install, photo, pictures
 Category: tech
 Slug: mediagoblin-auf-uberspace
+Picture: mediagoblin_header.png
 Author: janssen
 
-![Mediagoblin](http://www.aurka.com/pictures/mediagoblin_header.png)
 (Zuletzt aktualisiert am 3. Juni 2014; kleinere Ergänzungen)
 
 Bei den [Ubernauten](https://uberspace.de "Uberspace.de") lässt sich [Mediagoblin](http://www.mediagoblin.org/ "Mediagoblin.org") installieren - auch wenn es doch ziemlich viel gebastel ist. Ich hoffe ich kann jemandem mit dieser Anleitung ein paar Minuten/Stunden Arbeit ersparen.
@@ -74,7 +74,7 @@ Aktuellste PIL Version von der [PIL-Homepage](http://www.pythonware.com/products
 PIL sollte die JPG, TIFF, etc. Libraries eigentlich automatisch finden - tut es aber nicht. In der setup.py können wir dies nun aber ändern:
 `vim setup.py` -> Die Nummern sind die Zeilennummern, damit ihr nicht lange suchen müsst ;-)
 
-	36 TCL_ROOT = "/usr/lib64" 
+	36 TCL_ROOT = "/usr/lib64"
 	37 JPEG_ROOT = "/usr/lib64"
 	38 ZLIB_ROOT = "/usr/lib64"
 	39 TIFF_ROOT = "/usr/lib64"
@@ -122,31 +122,31 @@ Soweit so gut, wir wollen aber via Port 80 und/oder Port 443 auf Mediagoblin zug
 Erstellt under `mediagoblin` die Datei `mg.fcgi` (Achtung: Die Pfäde zu Python und paste.ini korrigieren!):
 
 	#!</path/to/mediagoblin/bin/python>
-	
+
 	# Written in 2011 by Christopher Allan Webber
 	#
 	# To the extent possible under law, the author(s) have dedicated all
 	# copyright and related and neighboring rights to this software to the
 	# public domain worldwide. This software is distributed without any
 	# warranty.
-	# 
+	#
 	# You should have received a copy of the CC0 Public Domain Dedication along
 	# with this software. If not, see
 	# <http://creativecommons.org/publicdomain/zero/1.0/>.
-	
+
 	from paste.deploy import loadapp
 	from flup.server.fcgi import WSGIServer
-	
+
 	CONFIG_PATH = \'</path/to/mediagoblin/paste.ini>\'
-	
+
 	import os
 	os.environ[\'CELERY_ALWAYS_EAGER\'] = \'true\'
-	
+
 	def launch_fcgi():
 	    ccengine_wsgi_app = loadapp(\'config:\' + CONFIG_PATH)
 	    WSGIServer(ccengine_wsgi_app).run()
-	
-	
+
+
 	if __name__ == \'__main__\':
 	    launch_fcgi()
 
@@ -161,7 +161,7 @@ Und eine `.htaccess`-Datei erstellen:
 	RewriteBase /
 	RewriteCond %{REQUEST_FILENAME} !-f
 	RewriteRule ^(.*)$ mediagoblin/mg.fcgi/$1 [QSA,L]
-	
+
 	Options +ExecCGI
 	AddHandler fcgid-script .fcgi
 

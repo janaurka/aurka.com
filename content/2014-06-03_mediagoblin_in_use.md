@@ -2,9 +2,8 @@ Title: Mediagoblin in use - Ein Bericht
 Date: 2014-06-03
 Tags: mediagoblin, gnu, goblin, media, hosting, share, photo, film, media
 Category: tech
+Picture: mediagoblinuse_header.jpg
 Author: janssen
-
-![Mediagoblin Header](pictures/mediagoblinuse_header.jpg)
 
 Seit der [Installation von Mediagoblin auf meinem Uberspace](http://aurka.com/mediagoblin-auf-uberspace.html) ist nun über ein halbes Jahr vergangen - Zeit um ein kurzes Fazit zu ziehen:
 
