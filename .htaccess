@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /feeds/
+RewriteCond %{HTTP_HOST} ^aurka.com$
+RewriteRule ^(.*) http://blog.aurka.com/$1 [L,R=301]
