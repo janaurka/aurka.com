@@ -7,6 +7,20 @@ Ich bin ein freischaffender Fotograf. Dies dürfte alleine durch die Betrachtung
 ## Ein Fotograf wird für XYZ benötigt
 Einfach mit mir [Kontakt](about.html "Kontakt") aufnehmen und dann können wir uns das Ganze anschauen. Und dann gibt es vielleicht bald Fotos zu XYZ von mir für Sie/dich/euch.
 
+## Was fotografierst du?
+
+Ich möchte mich nicht auf ein oder mehrere bestimmte Gebiete einschränken. Grundsätzlich kann gesagt werden:
+
+* oft an Demonstrationen unterwegs.
+* eigentlich immer mit einer Kamera bepackt und dann quer durch wo auch immer ich auch bin.
+* gerne an Konzerten und anderen Veranstaltungen, etc. unterwegs.
+* habe immer mehr Freude Portaits / Fotoshootings 
+* suche immer nach neuen Herausforderungen
+
+## Wieso die Fotografie?
+
+Die Fotografie ist meine Leidenschaft. Beinahe täglich bin ich mit meiner Kamera unterwegs und lebe meine kreative Ader auo. Dies macht mir enorm Spaß und gibt mir einen ausgezeichneten Ausgleich zum Rest. Egal ob Menschen, Landschaften, Demonstrationen oder einfach Dinge vor meiner Linse auftauchen.
+
 ## Verwendung der Fotos
 
 Die Lizenz der Fotos ist jeweils in Mediagoblin ersichtlich. Bei Unklarheiten bitte ich um eine Kontaktaufnahme.
@@ -17,25 +31,9 @@ __Sollten meine Fotos kommerziell verwendet werden sollen, dann bitte ich um ein
 
 Um es noch einmal zu wiederholen: Ich bin für eine kommerzielle Verwendung meiner Fotos, jedoch nicht for free.
 
-
-# Auflösung
-
-Um an ausgedruckte und/oder hochaufgelöste Fotos von mir zu gelangen, einfach [Kontakt](about.html "Kontakt") mit mir aufnehmen.
-
-## Was fotografierst du?
-Alles. Bin immer offen für Vorschläge, Spots, ‘Mach mal ein Foto von mir’ (aber dann richtig, wer einmal ein Shooting mit mir machen will, soll ich gerne melden).
-
-Grundsätzlich:
-
-* oft an Demonstrationen unterwegs.
-* eigentlich immer mit einer Kamera bepackt und dann quer durch wo auch immer ich auch bin.
-* als Fotograf unter anderem für Tink.ch an Veranstaltungen, Konzerten, etc. unterwegs.
-
-## Wieso fotografierst du?
-Weil es mir Spaß macht und ich mit der Kamera meine kreative Ader ausleben kann. Mir macht es Spaß, Menschen, Landschaften, Dinge abzulichten.
-
 ## Ausrüstung
-Ist leider viel zu teuer. Grundsätzlich mit Nikon Equipment unterwegs.
+
+Ist teuer und wird deshalb in kleinen Häppchen angecshafft. Grundsätzlich mit Nikon Equipment unterwegs.
 
 Momentan:
 
@@ -49,7 +47,10 @@ Momentan:
 * Nikkor 18-105 f3.5-5.6 (Kit  Objektiv)
 * Nikkor 55-300
 
-(Geschenke werden gerne angenommen ;-) )
+Auf der Einkaufsliste:
+
+* Nikkor 24-70 f2.8
+* Nikkor 70-200 f2.8
 
 # Digitale Bearbeitung:
 Mag / Mach ich nicht wirklich. Ich will meine Fotos möglichst natürlich belassen. Beim Gedanken an stundenlange Korrekturen mit Photoshop graust es mir. Ein bisschen Bearbeitung muss dann aber doch sein. Ich belasse dies jedoch oft bei einem Weissabgleich und kleinen Kontrastkorrekturen.
@@ -60,12 +61,20 @@ Dafür verwende ich dann:
 * Darktable (besonders Bilder mit Personen gelingen mir mit Darktable leider noch eher selten, da hole ich bei AfterShot Pro noch bedeutend mehr aus dem Bild heraus)
 * Gimp (nur Bildveränderungen wie Verpixelung)
 
+# Auflösung
+
+Um an ausgedruckte und/oder hochaufgelöste Fotos von mir zu gelangen, einfach [Kontakt](about.html "Kontakt") mit mir aufnehmen.
+
 ## Was geschieht mit all den Fotos?
 Beinahe alle lagern bei mir irgendwo. Teilweise sortiert. Leider oft unsortiert und chaotisch.
 
 Einige wenige hängen ausgedruckt irgendwo herum oder sind im Internet publiziert.
 
-Manchmal darf ich meine Fotos irgendwo ausstellen. Bis jetzt war das:
+# Bisherige Ausstellungen
 
 * 1. Schweizer Jugendmedientage (2012). Ausstellung in der Remise Zürich zum Thema “Protest”.
-* (Liste wird hoffentlich ergänzt).
+* Mitte Juni - ?: Ausstellung im Cafe Zähringer 
+
+# Kunden
+
+* BEP - Baugenossenschaft des eidgenössischen Personals
