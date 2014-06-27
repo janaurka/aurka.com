@@ -478,6 +478,20 @@
 pre {
 	border-radius: 0.5em;
 	background-color: #f3f3f3;
+	overflow: auto;
 	font-family: Inconsolata, Monaco, monospace;
 	padding: 1em;
+}
+
+code {
+	
+	border-radius: 0.1em;
+	
+	background-color: #f3f3f3;
+	
+	font-family: Inconsolata, Monaco, monospace;
+	
+	padding: 0.1em;
+	
+
 }
