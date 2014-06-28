@@ -1,7 +1,7 @@
 Title: Sommerfestival at Kulti Wetzikon with 'We don’t have a Name' and 'Downfall of Gaia'
-Date: 2014-06-26
+Date: 2014-06-27
 Tags: sommerfest, crust, doom, music, kulti, wetzikon
-Picture: kulti_header.png
+Picture: kulti_header.jpg
 Category: blog
 Author: janssen
 
