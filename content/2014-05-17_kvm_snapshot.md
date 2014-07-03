@@ -4,7 +4,7 @@ Tags: ubuntu, trusty, linux, kvm, libvirt, snapshot, qemu, debian, external, tec
 Category: tech
 Author: janssen
 
-Dies ist der zweite Post zum Thema Ubuntu 14.04 und KVM. Dieser behandelt das Thema 'Snapshots', wobei ich hauptsächlich auf sogenannt 'external' Snapshots eingehen werde. Der erste Artikel bezüglich der Erestellung von VMs gibt es hier: [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html).
+Dies ist der zweite Post zum Thema Ubuntu 14.04 und KVM. Dieser behandelt das Thema 'Snapshots', wobei ich hauptsächlich auf sogenannt 'external' Snapshots eingehen werde. Der erste Artikel bezüglich der Erestellung von VMs gibt es hier: [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html).
 
 # Umgebung
 Sämtliche Informationen gelten für folgende Testumgebung:
@@ -109,9 +109,9 @@ Vom System wurde auf diese Art und Weise ein sauberes Bare Metal Backup erstellt
 
 
 # Weitere Artikel zum Thema KVM unter Ubuntu 14.04
-* [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
-* [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
-* [Open vSwitch mit KVM unter Ubuntu 14.04](http://aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
+* [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
+* [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
+* [Open vSwitch mit KVM unter Ubuntu 14.04](http://blog.aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
 * [Konvertierung von ESXi-VMs zu KVM unter Ubuntu 14.04](konvertierung-von-esxi-vms-zu-kvm-unter-ubuntu-1404.html)
 
-Anmerkungen und Korrekturen bitte via [Kontakt](http://aurka.com/pages/about.html)
+Anmerkungen und Korrekturen bitte via [Kontakt](http://blog.aurka.com/pages/about.html)

@@ -40,9 +40,9 @@ Und bereits läuft die ehemalige ESXi VM unter KVM. Natürlich sollten/können n
 
 # Weitere Artikel zum Thema KVM unter Ubuntu 14.04
 
-* [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
-* [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](http://aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
-* [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
-* [Open vSwitch mit KVM unter Ubuntu 14.04](http://aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
+* [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
+* [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
+* [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://blog.aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
+* [Open vSwitch mit KVM unter Ubuntu 14.04](http://blog.aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
 
-Anmerkungen und Korrekturen bitte via [Kontakt](http://aurka.com/pages/about.html)
+Anmerkungen und Korrekturen bitte via [Kontakt](http://blog.aurka.com/pages/about.html)
