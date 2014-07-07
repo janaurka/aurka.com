@@ -55,7 +55,7 @@ Damit das Script nicht einzeln angestossen werden muss, hier noch ein kleines Zu
 	VMLIST=`virsh list | awk '{print $2}' | sed '/^$/d' | grep -v Name`
 
 	# Array with kvm machines to exclude from backup
-	EXCLUDE=(neptun-test4 ubuntutest1 ubuntutest2 ubuntutest3)
+	EXCLUDE=(example1 example2)
 
 	echo "Start Backup KVM Machines"
 	# Functions
