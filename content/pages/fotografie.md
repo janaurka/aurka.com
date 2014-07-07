@@ -46,11 +46,11 @@ Momentan:
 * Nikkor 35mm f1.8 (DX Version)
 * Nikkor 18-105 f3.5-5.6 (Kit  Objektiv)
 * Nikkor 55-300
+* Nikkor 70-200 f2.8 VRII
 
 Auf der Einkaufsliste:
 
 * Nikkor 24-70 f2.8
-* Nikkor 70-200 f2.8
 
 # Digitale Bearbeitung:
 Mag / Mach ich nicht wirklich. Ich will meine Fotos möglichst natürlich belassen. Beim Gedanken an stundenlange Korrekturen mit Photoshop graust es mir. Ein bisschen Bearbeitung muss dann aber doch sein. Ich belasse dies jedoch oft bei einem Weissabgleich und kleinen Kontrastkorrekturen.
