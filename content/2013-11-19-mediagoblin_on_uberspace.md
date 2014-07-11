@@ -6,7 +6,7 @@ Slug: mediagoblin-auf-uberspace
 Picture: mediagoblin_header.png
 Author: janssen
 
-(Zuletzt aktualisiert am 3. Juni 2014; kleinere Ergänzungen)
+(Zuletzt aktualisiert am 11. Juli 2014; kleinere Ergänzungen zur Verwendung von PostgresSQL)
 
 Bei den [Ubernauten](https://uberspace.de "Uberspace.de") lässt sich [Mediagoblin](http://www.mediagoblin.org/ "Mediagoblin.org") installieren - auch wenn es doch ziemlich viel gebastel ist. Ich hoffe ich kann jemandem mit dieser Anleitung ein paar Minuten/Stunden Arbeit ersparen.
 
@@ -93,9 +93,11 @@ Jetzt sind alle Pys, welche Mediagoblin nicht automatisch mitinstalliert (wieso 
 
 Dies sollte ohne Fehler ablaufen. Ansonsten müsst ihr evt. noch weiter Pys installieren.
 
-mediagoblin.ini muss nun noch angepasst werden. Die Verwendung von Postgres ist bereits vorbereitet - es muss nur diese Line entkommentiert werden.
+mediagoblin.ini muss nun noch angepasst werden. Die Verwendung von Postgres ist bereits vorbereitet - es muss jedoch korrekt auf den Unix-Socket zugegriffen werden:
 
-	sql_engine = postgresql:///mediagoblin
+	sql_engine = postgresql://<uberspace-username>:<passwort>@localhost/mediagoblin?host=/home/<uberspace-name>/tmp
+
+(Kurze Erklärung: Mediagoblin versucht standardmässig auf einen Unix-Socket unter /tmp zuzugreiffen. Bei den Ubernauten liegt der Socket jedoch [defaultmässig] unter ~/tmp/ [/home/<uberspace-name>/tmp]. Dies wird mit dem `?host=/home/<uberspace-name>/tmp`-String am Ende angegeben. Den Namen und das Passwort kriegt ihr aus der Datei `~/.pgpass` und müsste sehr wahrscheinlich überhaupt nicht mit angegeben werden [dafür gibt es die .pgpass Datei überhaupt].)
 
 Nun kann die Datenbank initialisiert werden:
 
