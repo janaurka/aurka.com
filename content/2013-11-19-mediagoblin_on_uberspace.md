@@ -190,7 +190,7 @@ Nun muss einzig noch nach `~/service` gelinkt werden:
 
 Mediagoblin läuft nun als Service. Viel Spaß beim verwenden!
 
-Wenn ihr zuerst ein Mediagoblin anschauen wollt. Hier ist mein [Mediagoblin](http://mediagoblin.aurka.com "mediagoblin.aurka.com").
+Wenn ihr zuerst ein Mediagoblin anschauen wollt. Hier ist mein [Mediagoblin](http://mediagoblin.aurka.com "mediagoblin.aurka.com"). Ich habe vor einiger Zeit auch einen [Bericht](http://blog.aurka.com/mediagoblin-in-use-ein-bericht.html) darüber geschrieben, wie ich zu Mediagoblin nach einem Jahr in Verwendung stehe.
 
 Korrekturen, Bugfixes, etc. bitte an mich herantragen, damit ich die Doku verbessern/korrigieren kann.
 
