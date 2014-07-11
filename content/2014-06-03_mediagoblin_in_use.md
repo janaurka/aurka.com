@@ -5,7 +5,7 @@ Category: tech
 Picture: mediagoblinuse_header.jpg
 Author: janssen
 
-Seit der [Installation von Mediagoblin auf meinem Uberspace](http://aurka.com/mediagoblin-auf-uberspace.html) ist nun über ein halbes Jahr vergangen - Zeit um ein kurzes Fazit zu ziehen:
+Seit der [Installation von Mediagoblin auf meinem Uberspace](http://blog.aurka.com/mediagoblin-auf-uberspace.html) ist nun über ein halbes Jahr vergangen - Zeit um ein kurzes Fazit zu ziehen:
 
 Mediagoblin macht sich gut. Die Wartung ist leicht, Updates funktionierten bis jetzt ohne zusätzliche Handarbeit und das Programm machte auch ansonsten keine größeren Probleme. Was bleibt sind (leider; wie so oft) diverse Kinderkrankheiten, welche hoffentlich bald aus der Welt geschafft werden. Bis jetzt habe ich meine Entscheidung, meine Fotos (und es sind bis jetzt effektiv nur Fotos geblieben) auf meiner eigenen Mediagoblin-Instanz zu hosten, nie bereut. Ich habe die volle Kontrolle über meine Fotos, kann Mediagoblin ohne weiter anpassen und muss mir keine Hilfe von bloated Wordrpess Themes oder so holen, die zwar fancy aussehen, aber wohl alleine beim Gedanken auf solch ein Produkt zu bauen, lässt mich erschaudern.
 
@@ -32,4 +32,4 @@ Ich denke mal, dass wir uns bald auf die Version 0.7 freuen können, auch wenn n
 
 Alles in allem ist Mediagoblin eine äusserst bedienerfreundliche Medienhosting-Applikation, welche ich allen technisch versierteren Menschen nur wärmstens empfehlen kann. Die Installation wird leider sämtliche technisch nicht versierten Menschen abschrecken, nach der Installation sind die Vorgänge (Upload, Verwaltung, etc.) jedoch äusserst simpel.
 
-Anmerkungen und Korrekturen bitte via [Kontakt](http://aurka.com/pages/about.html)
+Anmerkungen und Korrekturen bitte via [Kontakt](http://blog.aurka.com/pages/about.html)

@@ -57,7 +57,7 @@ Mag / Mach ich nicht wirklich. Ich will meine Fotos möglichst natürlich belass
 
 Dafür verwende ich dann:
 
-* Corel AfterShot Pro 2 (proprietär...), läuft seit Version 2 nativ unter Linux 64bit. Siehe: [AfterShot Pro 2 im Vergleich mit Darktable unter Linux](http://aurka.com/aftershot-pro-2-im-vergleich-mit-darktable-unter-linux.html)
+* Corel AfterShot Pro 2 (proprietär...), läuft seit Version 2 nativ unter Linux 64bit. Siehe: [AfterShot Pro 2 im Vergleich mit Darktable unter Linux](http://blog.aurka.com/aftershot-pro-2-im-vergleich-mit-darktable-unter-linux.html)
 * Darktable (besonders Bilder mit Personen gelingen mir mit Darktable leider noch eher selten, da hole ich bei AfterShot Pro noch bedeutend mehr aus dem Bild heraus)
 * Gimp (nur Bildveränderungen wie Verpixelung)
 
