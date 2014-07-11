@@ -2,7 +2,7 @@ Title: Fotografie
 Author: janssen
 Slug: fotografie
 
-Ich bin ein freischaffender Fotograf. Dies dürfte alleine durch die Betrachtung dieses [Blogs](http://aurka.com "aurka.cm") oder durch das Betrachten meiner Bilden in [meinem Mediagoblin](http://mediagobli.aurka.com "mediagoblin.aurka.com") bereits aufgefallen sein.
+Ich bin ein freischaffender Fotograf. Dies dürfte alleine durch die Betrachtung dieses [Blogs](http://aurka.com "aurka.cm") oder durch das Betrachten meiner Bilden in [meinem Mediagoblin](http://mediagoblin.aurka.com "mediagoblin.aurka.com") bereits aufgefallen sein.
 
 ## Ein Fotograf wird für XYZ benötigt
 Einfach mit mir [Kontakt](about.html "Kontakt") aufnehmen und dann können wir uns das Ganze anschauen. Und dann gibt es vielleicht bald Fotos zu XYZ von mir für Sie/dich/euch.
