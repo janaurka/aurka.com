@@ -19,6 +19,8 @@ Alles in allem: Danke Giardino für den unterhaltsamen Abend. Gerne einmal wiede
 Der Abend endete dann in etwa so:
 
 <div>
+
 <blockquote class="twitter-tweet" lang="en"><p>&quot;High-Five!&quot;  &quot;Ähm, wofür?&quot; &quot;Sir haben gewonnen!&quot;  &quot;Nur weil ich einen St. Pauli Kapu trage, musst du mich nicht in dein &#39;wir&#39; integrieren.</p>&mdash; 0xTry (@0xTry) <a href="https://twitter.com/0xTry/statuses/488447114532618240">July 13, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </div>
