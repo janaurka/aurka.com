@@ -44,6 +44,9 @@ DISPLAY_PAGES_ON_MENU = False
 
 STATIC_PATHS = ["pictures", "krimskrams", ]
 
+PLUGINS = [
+    'pelicanfly',
+]
 
 #Piwik
 
