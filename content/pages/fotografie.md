@@ -61,21 +61,21 @@ Dafür verwende ich dann:
 * Darktable (besonders Bilder mit Personen gelingen mir mit Darktable leider noch eher selten, da hole ich bei AfterShot Pro noch bedeutend mehr aus dem Bild heraus)
 * Gimp (nur Bildveränderungen wie Verpixelung)
 
-# Auflösung
+## Auflösung
 
 Um an ausgedruckte und/oder hochaufgelöste Fotos von mir zu gelangen, einfach [Kontakt](about.html "Kontakt") mit mir aufnehmen.
 
-## Was geschieht mit all den Fotos?
+# Was geschieht mit all den Fotos?
 Beinahe alle lagern bei mir irgendwo. Teilweise sortiert. Leider oft unsortiert und chaotisch.
 
 Einige wenige hängen ausgedruckt irgendwo herum oder sind im Internet publiziert.
 
-# Bisherige Ausstellungen
+## Bisherige Ausstellungen
 
-* 1. Schweizer Jugendmedientage (2012). Ausstellung in der Remise Zürich zum Thema “Protest”.
-* Mitte Juni - ?: Ausstellung im Cafe Zähringer 
+* 2012 - Ausstellung in der Remise Zürich zum Thema Protest, anlässlich der Schweizer Jugendmedientage 2012
+* Mitte Juni - Anfang Oktober 2014 - Ausstellung im Cafe Zähringer 
 
-# Kunden / Veröffentlichungen: 
+## Kunden / Veröffentlichungen 
 
 * BEP - Baugenossenschaft des eidgenössischen Personals
 * Vice.com
