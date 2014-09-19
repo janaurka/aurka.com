@@ -75,6 +75,11 @@ Einige wenige hängen ausgedruckt irgendwo herum oder sind im Internet publizier
 * 1. Schweizer Jugendmedientage (2012). Ausstellung in der Remise Zürich zum Thema “Protest”.
 * Mitte Juni - ?: Ausstellung im Cafe Zähringer 
 
-# Kunden
+# Kunden / Veröffentlichungen: 
 
 * BEP - Baugenossenschaft des eidgenössischen Personals
+* Vice.com
+* Tink.ch
+* super-fi.eu
+
+
