@@ -18,6 +18,9 @@ DEFAULT_DATE_FORMAT = ('%d.%m.%Y')
 ABOUT_LINK = 'http://blog.aurka.com/pages/about.html'
 ABOUT_IMAGE = 'freshpaint.jpg'
 
+# Category
+CATEGORY_URL = '{slug}.html'
+
 DEFAULT_LANG = u'de'
 
 # Feed generation is usually not desired when developing
