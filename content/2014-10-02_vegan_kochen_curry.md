@@ -5,7 +5,7 @@ Picture: vegancurry_header.jpg
 Category: blog
 Author: janssen
 
-Das Ganze hier könnte auch leicht unter dem Namen **Einen veganen Kochblog zu betreiben wäre ganz leicht** oder **Ohne Kühlschrank machen kochen nur halb so viel Spaß** heissen. Aber tut es halt nihct. Trotzdem ist mein Kühlschrank seit über einer Woche ausser Betrieb (ein Neuer sollte kommen, es ist nur unklar wann) und deshalb lebe ich essenstechnisch momentan von mehrheitlich ungekühlten Produkten - und das nervt. Aber was will ich machen?
+Das Ganze hier könnte auch leicht unter dem Namen **Einen veganen Kochblog zu betreiben wäre ganz leicht** oder **Ohne Kühlschrank macht kochen nur halb so viel Spaß** heissen. Aber tut es halt nihct. Trotzdem ist mein Kühlschrank seit über einer Woche ausser Betrieb (ein Neuer sollte kommen, es ist nur unklar wann) und deshalb lebe ich essenstechnisch momentan von mehrheitlich ungekühlten Produkten - und das nervt. Aber was will ich machen?
 
 Hatte heute das erste Mal wieder Lust, etwas richtiges zu kochen. Die letzten paar Tage habe ich mich immer von Pasta, CousCous mit einfachen Saucen ohne große Zulage ([ausnahme gestern Mittag](http://blog.aurka.com/einmal-scuol-retour-in-text-und-bild.html)) zu mir genommen.
 
