@@ -1,8 +1,8 @@
-Title: Einmal kurz (vegane) Rösti herstellen 
+Title: Einmal kurz vegane Rösti herstellen 
 Date: 2014-10-30
 Tags: vegan, kochen, cook, rösti, essen 
 Picture: veganroesti_header.jpg
-Category: kochen
+Category: Kochen
 Author: janssen
 
 Nachdem ich hier vor gut einem Monat aus einer Laune heraus dokumentiert habe, wie ein [veganes Kokoknusscurry mit Reis und Tofu herstellt](http://blog.aurka.com/vegan-zu-kochen-ist-ganz-leicht-ein-beispiel.html) kommt nun bereits das nächste Gericht. Es gab Rösti.
@@ -13,9 +13,9 @@ Wie bereits letztes Mal wird auf Vorspeise und Nachtisch verzichtet. Das macht e
 
 Auf dem Speiseplan stand **Rösti**
 
-Sollte nicht ganz klar sein, was eine Rösti sein soll, dann hilft (Wikipedia)[https://de.wikipedia.org/wiki/R%C3%B6sti]:
+Sollte nicht ganz klar sein, was eine Rösti sein soll, dann hilft [Wikipedia](https://de.wikipedia.org/wiki/R%C3%B6sti)
 
-	Die Rösti ist eine Kartoffel-Spezialität der Deutschschweizer Küche. Die schweizerdeutsche Aussprache lautet [ˈrøːʃti] («Rööschti» – also mit langem «ö» sowie «sch» statt «s»); statt «Rösti» ist deshalb vereinzelt auch die Schreibweise «Röschti» zu finden. Das lange «ö» gilt auch in der schweizerhochdeutschen Aussprache ([ˈrøːsti]), wogegen in Deutschland der Stammvokal kurz ausgesprochen wird ([ˈrœsti]).
+> Die Rösti ist eine Kartoffel-Spezialität der Deutschschweizer Küche. Die schweizerdeutsche Aussprache lautet [ˈrøːʃti] («Rööschti» – also mit langem «ö» sowie «sch» statt «s»); statt «Rösti» ist deshalb vereinzelt auch die Schreibweise «Röschti» zu finden. Das lange «ö» gilt auch in der schweizerhochdeutschen Aussprache ([ˈrøːsti]), wogegen in Deutschland der Stammvokal kurz ausgesprochen wird ([ˈrœsti]).
 
 Benötigte Zutaten:
 
@@ -61,6 +61,6 @@ Nun die Rösti mit der noch nicht angebratenen Seite nach unten in die Bratpfann
 
 Mehr Bilder zu meinem Geköche gibt es unter [mediagoblin.aurka.com](http://mediagoblin.aurka.com/mediagoblin/mg.fcgi/u/janssen/collection/29-10-2014-vegane-rosti-herstellen/)
 
-Vielleicht blogge ich in Zukunft des öfteren über das Zubereiten von Mahlzeiten; hab sogar bereits eine neue Kategorie erstellt...
+Vielleicht blogge ich in Zukunft des öfteren über das Zubereiten von Mahlzeiten; hab sogar bereits eine neue [Kategorie](http://blog.aurka.com/category/kochen.html) erstellt...
 
 
