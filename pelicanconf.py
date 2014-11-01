@@ -19,7 +19,7 @@ ABOUT_LINK = 'http://blog.aurka.com/pages/about.html'
 ABOUT_IMAGE = 'freshpaint.jpg'
 
 # Category
-CATEGORY_URL = '{slug}.html'
+#CATEGORY_URL = 'category/{slug}.html'
 
 DEFAULT_LANG = u'de'
 
