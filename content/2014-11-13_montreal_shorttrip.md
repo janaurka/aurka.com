@@ -20,20 +20,28 @@ Um die übliche Tourikacke abzudecken, lohnt es sich mit sicherheit, den 'Mount 
 
 ### Vegan Food
 
-Wer lecker vegan schlemmen gehen möchte, sollte unbedingts im [Aux Vivres](https://auxvivres.com/en/) vorbeischauen. Ziemlich zentral an der 'Boul St. Laurent' gelegen kann man dort gut mit vollem Bauch 'verenden'. Eine große Karte voller leckeren Dinge lädt zum verweilen ein. Für andere Allergiker sind sämtliche Dinge klar deklariert und es gibt glutenfreien Schokoladenkuchen, sowie glutenfreies Eis und vieles mehr. Gerade die Nachspeise-Spezialitäten, sowie Tempeh, Wraps, etc. gibt es auch im Geschäft gleich nebenan.
+Wer lecker vegan schlemmen gehen möchte, sollte unbedingts im [Aux Vivres](https://auxvivres.com/en/) vorbeischauen. Ziemlich zentral an der 'St. Laurent Boulevard' gelegen kann man dort gut mit vollem Bauch 'verenden'. Eine große Karte voller leckeren Dinge lädt zum verweilen ein. Für andere Allergiker sind sämtliche Dinge klar deklariert und es gibt glutenfreien Schokoladenkuchen, sowie glutenfreies Eis und vieles mehr. Gerade die Nachspeise-Spezialitäten, sowie Tempeh, Wraps, etc. gibt es auch im Geschäft gleich nebenan.
 
 ### Street Art
 
-Montreal ist gut mit Street Art bepflastert. Zu finden sind von großen Wandbildern bis hin zu einer bunten Stickersammlung an nahezu jedem Pfosten so ziemlich alles. Äusserst empfehlenswert ist in diesem Zusammenhang wieder die Region 'Boul St. Laurent', welche richtiggehend mit Street Art zugepflastert ist. 
+Montreal ist gut mit Street Art bepflastert. Zu finden sind von großen Wandbildern bis hin zu einer bunten Stickersammlung an nahezu jedem Pfosten so ziemlich alles. Äusserst empfehlenswert ist in diesem Zusammenhang wieder die Region 'St. Laurent Boulevard', welche richtiggehend mit Street Art zugepflastert ist. 
 
 ### Geld
 
 Die kanadischen Dollars sind weird. Die Noten fühlen sich nach 100% Plastik an und sind an gewissen Stellen durchsichtig. Die Münzen sind riesig und total unförmig. Hier scheint die englische Vergangenheit gut durch. Nicht fehen darf natürlich auch die Queen auf dem Geld nicht. 
 
+### Flughafen
+
+Der Flughafen wirkt äusserst modern, bietet im Boarding-Bereich eine super Smoothie-Bar und für die Einreise sind viele Posten offen. So verläuft die Bordercontroll äusserst smooth und dauert nur wenige Minuten (inklusive anstehen)!
+
+### Last but not least
+
 Ansonsten fühlt sich Montreal wie ein äusserst sympathische Ausgabe einer US-Großstadt an. Die Armmut erscheint nicht so sichtbar, jedoch sind gewisse Häuser gut am auseinanderfallen und gefült ist in jeder Straße ein Teil des Gehweges gerade gesperrt aufgrund von Arbeiten. Auch scheinen die Häuser nicht wirklich robust gebaut zu werden. Wir konnten beobachten, wie an einem halben Tag ein komplettes Backsteinhaus zu Brei geschlagen wurde. Wettertechnisch waren die beiden Tage erstaunlich warm, obwohl sich viele Einwohner bereits dick in Wintermäntel verzogen haben. Während unserem Aufenthalt in Montreal konnten zwei Dinge nicht übersehen werden:
 
 - Viele Leute trugen im Gedenken an die Soldaten im 1. Weltkrieg, jedoch auf um Solidarität mit Veteranen, etc. auszudrücken, (künstliche) rote Mohnblüten an ihren Kleidern.
-- Nebst Street Art scheint es auch viele politisch engagierte Leute zu geben ([siehe auch die Donuts-Aktion an der 1. Mai Demo](http://news.nationalpost.com/2012/05/02/montreal-may-day-anti-capitalism-march-sees-protesters-use-black-bloc-anarchist-tactics/)). Während unserem Aufenthalt wurde auf vielen Wänden auf 'sexual harassment' hingewiesen. 
+- Nebst Street Art scheint es auch viele politisch engagierte Leute zu geben ([siehe auch die Donuts-Aktion an der 1. Mai Demo](http://news.nationalpost.com/2012/05/02/montreal-may-day-anti-capitalism-march-sees-protesters-use-black-bloc-anarchist-tactics/)). Während unserem Aufenthalt wurde auf vielen Wänden auf 'sexual harassment' hingewiesen.
+
+Plakate wie dieses (und oftmals noch schlechter geklebt als dieses hier) hängen zumindest in den zentralen Straßen an beinahe jedem Block. 
 
 In Montreal fühl man sich (gefühlt) wie in einer nie enden wollenden Kleinstadt. Beim stundenlangen wandern durch die Straßen kriegt man nie so richtig das Gefühl in einer Großstadt zu sein. Alles in allem hat mir Montreal äusserst gut gefallen!
 
