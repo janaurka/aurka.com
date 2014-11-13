@@ -9,6 +9,8 @@ Author: janssen
 
 Anfangs der Woche verschlug es mich für gut 48 Stunden nach Montreal - wer sich jetzt denkt, dass sich dies als Mitteleuropäer nicht lohnt, es waren immerhin mehr als die knapp 24 Stunden Chicago im August dieses Jahres. Und wenn man nur so wenig Zeit hat, um eine Stadt zu erkunden, dann ist man immerhin in der Zeit viel unterwegs.
 
+![Telephone?](http://mediagoblin.aurka.com/mgoblin_media/media_entries/609/ABC9531.jpg)
+
 Wir vertrauten komplett auf unsere Füsse und verwendeten nie (exclude transports to the Airport) andere Fortbewegungsmittel. Mit einem Hotelzimmer direkt unter des Mount Royal (nach welchem Montreal benannt wurde) hatten wir auch eine gute, zentrale Lage, um die Stadt zu erkunden. Die Stadt versteht zu gefallen. Die Leute sind äusserst freundlich, halten jedoch von dem groben Smalltalk der Amis eher Abstand. Zwanghaftes über das Wetter quatschen gab es bei uns glücklicherweise nie. Sehr unterhaltsam ist die Begrüßungs-Parole. Da die Stadt mehr oder weniger zweisprachig ist (Französisch und Englisch) wird direkt beim 'Hallo'-sagen geprüft, auf welche der beiden Sprachen man zurückgreiffen möchte. Auf diese Weise kommt das `Bonjour Hi` wohl zustande, mit welchem man in jedem Geschäft, etc. begrüßt wird. Wer den Einheimischen zuhört bemerkt, dass sie jedoch gerne auch mitten im Satz die Sprache wechseln oder sich zumindest rege mit Worten aus der jeweils anderen Sprache aushelfen.
 
 ![Street Art](http://mediagoblin.aurka.com/mgoblin_media/media_entries/589/ABC9385.jpg)
@@ -37,9 +39,15 @@ Montreal ist gut mit Street Art bepflastert. Zu finden sind von großen Wandbild
 
 ![It’s ok not to think sticker](http://mediagoblin.aurka.com/mgoblin_media/media_entries/597/ABC9465.jpg)
 
+![Take that fish](http://mediagoblin.aurka.com/mgoblin_media/media_entries/603/ABC9488.medium.jpg)
+
+![Definitely a cool oma](http://mediagoblin.aurka.com/mgoblin_media/media_entries/606/ABC9504.medium.jpg)
+
 ### Geld
 
 Die kanadischen Dollars sind weird. Die Noten fühlen sich nach 100% Plastik an und sind an gewissen Stellen durchsichtig. Die Münzen sind riesig und total unförmig. Hier scheint die englische Vergangenheit gut durch. Nicht fehen darf natürlich auch die Queen auf dem Geld nicht. 
+
+![Ein bisschen abgefuckt](http://mediagoblin.aurka.com/mgoblin_media/media_entries/605/ABC9498.jpg)
 
 ### Flughafen
 
@@ -55,6 +63,9 @@ Ansonsten fühlt sich Montreal wie ein äusserst sympathische Ausgabe einer US-G
 ![against sexual harassment](http://mediagoblin.aurka.com/mgoblin_media/media_entries/598/ABC9469.jpg)
 
 Plakate wie dieses (und oftmals noch schlechter geklebt als dieses hier) hängen zumindest in den zentralen Straßen an beinahe jedem Block. 
+
+
+![Holy macaroni](http://mediagoblin.aurka.com/mgoblin_media/media_entries/629/ABC9667.medium.jpg)
 
 In Montreal fühl man sich (gefühlt) wie in einer nie enden wollenden Kleinstadt. Beim stundenlangen wandern durch die Straßen kriegt man nie so richtig das Gefühl in einer Großstadt zu sein. Alles in allem hat mir Montreal äusserst gut gefallen!
 
