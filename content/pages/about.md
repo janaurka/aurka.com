@@ -1,4 +1,4 @@
-Title: About 
+Title: About
 Author: janssen
 Slug: about
 
@@ -6,10 +6,10 @@ Slug: about
 aurka ist baskisch und steht für ’dagegen’.
 
 aurka.com beinhaltet einerseits meine Bilder, mein Portfolio, sozusagen alles, was ich fotografisch zu zeigen habe. Andererseits dient es mir als Blog für alles mögliche. Nebst Dingen, welche mich im Alltag beschäftigen, werden auch immer wieder technische Themen, zumeist um Linux und die Arbeit als Systemadministrator, behandelt.
-Der Inhalt des Blogs steht grundsätzlich und soweit nichts anderes vermerkt unter CC-by-NC-SA. 
+Der Inhalt des Blogs steht grundsätzlich und soweit nichts anderes vermerkt unter CC-by-NC-SA.
 
-# Kontaktmöglichkeiten // Mehr von mir: 
-* [Twitter](https://twitter.com/0xTry "Twitter") 
+# Kontaktmöglichkeiten // Mehr von mir:
+* [Twitter](https://twitter.com/0xTry "Twitter")
 * Jabber/XMPP: janssen[at]imsg[dot]ch
 * Mail: jan-homepage[at]aurka[dot]com (andere auf aurka.com auffindbare Mailadressen können ebenfalls verwnendet werden)
 * [Github](https://github.com/janaurka)
@@ -18,12 +18,14 @@ Oder halt persönlich `hallo` sagen.
 
 __Ich:__
 
+![Street Art vor der Kamera in Monrtreal](pictures/aurkaphoto.jpg)
+
 <div>
 -----BEGIN GEEK CODE BLOCK-----<br>
 Version: 3.1<br>
 GH/IT/L/MU/PA dx--- !s !a C++$ UL++++$ P--- L+++$ !E !W++ !N o? K? w--$ !O <br>
 M-@ V? PS+++ PE-- Y? PGP++>+++ !t 5? !X R* !tv b+++ ?DI !D G- e+ h r z?<br>
-------END GEEK CODE BLOCK------<br> 
+------END GEEK CODE BLOCK------<br>
 </div>
 
 ## Hosted on Asteroids
