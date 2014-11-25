@@ -18,7 +18,7 @@ Oder halt persönlich `hallo` sagen.
 
 __Ich:__
 
-![Street Art vor der Kamera in Monrtreal](pictures/aurkaphoto.jpg)
+![Street Art vor der Kamera in Monrtreal](../pictures/aurkaphoto.jpg)
 
 <div>
 -----BEGIN GEEK CODE BLOCK-----<br>
