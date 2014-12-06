@@ -13,7 +13,7 @@
                         <a href="{{ SITEURL }}/{{ article.url }}" class="image image-full"><img src="{{ SITEURL }}/pictures/{{ article.picture }}" alt=""/></a>
                         {% endif %}
                         <header>
-                            <h3><a href="{{article.url}}">{{article.title }}</a></h3>
+                            <h3><a href="{{ SITEURL }}/{{article.url}}">{{article.title }}</a></h3>
                             <span class="byline">{{ article.date|strftime('%d.%m.%Y') }}</span>
                         </header>
                         {{ article.summary }}
