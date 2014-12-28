@@ -25,11 +25,9 @@ Die Fotografie ist meine Leidenschaft. Beinahe täglich bin ich mit meiner Kamer
 
 Die Lizenz der Fotos ist jeweils in Mediagoblin ersichtlich. Bei Unklarheiten bitte ich um eine Kontaktaufnahme.
 
-Oftmals sind meine Fotos unter der Lizenz CC-by-NC-SA veröffentlicht (bedeutet: das Foto darf für nicht-kommerzielle Zwecke verwendet werden, sofern mein Name genannt wird. Eine kurze Benachrichtigung freut mich natürlich), weil ich der Meinung bin, dass meine Fotos verwendet werden sollen - von wem auch immer. Dies beinhaltet ausdrücklicherweise auch die kommerzielle Verwendung meiner Fotos. Jedoch will ich nicht unentgeltlich für ein Medium meine Fotos freihaus liefern, welches diese dann kommerziell verwendet - also Geld damit verdient.
+Diverse Fotos sind unter der Lizenz [CC-by-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/) veröffentlicht (Über eine kurze Benachrichtugung, wenn meine Fotos verwendet werden wäre natürlich auch hier schön). 
 
 __Sollten meine Fotos kommerziell verwendet werden sollen, dann bitte ich um eine Mail an jan-fotos[at]aurka[dot]com um das Ganze zu klären__
-
-Um es noch einmal zu wiederholen: Ich bin für eine kommerzielle Verwendung meiner Fotos, jedoch nicht for free.
 
 ## Ausrüstung
 
@@ -77,9 +75,18 @@ Einige wenige hängen ausgedruckt irgendwo herum oder sind im Internet publizier
 
 ## Kunden / Veröffentlichungen 
 
-* BEP - Baugenossenschaft des eidgenössischen Personals
-* Vice.com
+# Medien / News 
+
+* Vice.com (Fotos unter anderen veröffentlicht: Vice News, Vice Alps, Vice Deutschland, Vice United Kingdom)
+* Keystone
+* Tagesanzeiger
 * Tink.ch
+
+# Diverses
+
+* BEP - Baugenossenschaft des eidgenössischen Personals
 * super-fi.eu
+
+
 
 
