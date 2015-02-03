@@ -2,7 +2,7 @@ Title: Vegan zu kochen ist ganz leicht - ein Beispiel
 Date: 2014-10-02
 Tags: vegan, kochen, cook, curry, essen 
 Picture: vegancurry_header.jpg
-Category: Kochen 
+Category: blog 
 Author: janssen
 
 Das Ganze hier könnte auch leicht unter dem Namen **Einen veganen Kochblog zu betreiben wäre ganz leicht** oder **Ohne Kühlschrank macht kochen nur halb so viel Spaß** heissen. Aber tut es halt nihct. Trotzdem ist mein Kühlschrank seit über einer Woche ausser Betrieb (ein Neuer sollte kommen, es ist nur unklar wann) und deshalb lebe ich essenstechnisch momentan von mehrheitlich ungekühlten Produkten - und das nervt. Aber was will ich machen?

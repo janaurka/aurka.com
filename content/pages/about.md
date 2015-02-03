@@ -9,6 +9,7 @@ aurka.com beinhaltet einerseits meine Bilder, mein Portfolio, sozusagen alles, w
 Der Inhalt des Blogs steht grundsätzlich und soweit nichts anderes vermerkt unter CC-by-NC-SA.
 
 # Kontaktmöglichkeiten // Mehr von mir:
+
 * [Twitter](https://twitter.com/0xTry "Twitter")
 * Jabber/XMPP: janssen[at]imsg[dot]ch
 * Mail: jan-homepage[at]aurka[dot]com (andere auf aurka.com auffindbare Mailadressen können ebenfalls verwnendet werden)

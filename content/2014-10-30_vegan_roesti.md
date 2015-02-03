@@ -2,7 +2,7 @@ Title: Einmal kurz vegane Rösti herstellen
 Date: 2014-10-30
 Tags: vegan, kochen, cook, rösti, essen 
 Picture: veganroesti_header.jpg
-Category: Kochen
+Category: blog 
 Author: janssen
 
 Nachdem ich hier vor gut einem Monat aus einer Laune heraus dokumentiert habe, wie ein [veganes Kokoknusscurry mit Reis und Tofu herstellt](http://blog.aurka.com/vegan-zu-kochen-ist-ganz-leicht-ein-beispiel.html) kommt nun bereits das nächste Gericht. Es gab Rösti.
