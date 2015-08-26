@@ -59,7 +59,7 @@ Nun die Rösti mit der noch nicht angebratenen Seite nach unten in die Bratpfann
 
 (Wer alleine is(s)t, gibt auch nicht viel auf schönes Anrichten...)
 
-Mehr Bilder zu meinem Geköche gibt es unter [mediagoblin.aurka.com](http://mediagoblin.aurka.com/mediagoblin/mg.fcgi/u/janssen/collection/29-10-2014-vegane-rosti-herstellen/)
+Mehr Bilder zu meinem Geköche gibt es unter [mediagoblin.aurka.com](http://mediagoblin.aurka.com/u/janssen/collection/29-10-2014-vegane-rosti-herstellen/)
 
 Vielleicht blogge ich in Zukunft des öfteren über das Zubereiten von Mahlzeiten; hab sogar bereits eine neue [Kategorie](http://blog.aurka.com/category/kochen.html) erstellt...
 

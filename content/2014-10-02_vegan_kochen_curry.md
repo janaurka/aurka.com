@@ -59,7 +59,7 @@ Sobald der Reis dann weich genug ist, kann serviert werden. Et voila - guten Ape
 
 (Wer alleine ist, gibt auch nicht viel auf schönes Anrichten...)
 
-Mehr Bilder zu meinem Geköche gibt es unter [mediagoblin.aurka.com](http://mediagoblin.aurka.com/mediagoblin/mg.fcgi/u/janssen/collection/02-10-2014-ein-veganer-kochblog-konnte-so-einfach-sein/)
+Mehr Bilder zu meinem Geköche gibt es unter [mediagoblin.aurka.com](http://mediagoblin.aurka.com/u/janssen/collection/02-10-2014-ein-veganer-kochblog-konnte-so-einfach-sein/)
 
 Vielleicht blogge ich in Zukunft des öfteren über das Zubereiten von Mahlzeiten...
 

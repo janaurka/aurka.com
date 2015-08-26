@@ -5,7 +5,7 @@ Picture: scuol_header.jpg
 Category: blog
 Author: janssen
 
-** Hier ist viel Text und wenig Bild. Wer das Gegenteil haben möchte wird hier glücklich: [mediagoblin.aurka.com](http://mediagoblin.aurka.com/mediagoblin/mg.fcgi/u/janssen/collection/01-10-2014-einmal-scuol-retour/ "mediagoblin.aurka.com")**
+** Hier ist viel Text und wenig Bild. Wer das Gegenteil haben möchte wird hier glücklich: [mediagoblin.aurka.com](http://mediagoblin.aurka.com/u/janssen/collection/01-10-2014-einmal-scuol-retour/ "mediagoblin.aurka.com")**
 
 Die Tatsache, dass mein GA ('freie' fahrt mit dem öffentlichen Verkehr in der Schweiz) in ein paar wenigen Monaten bereits wieder ausläuft, zeigt mir auch dieses Jahr wieder, dass ich mehr Reisen sollte. Gesagt getan. Ich entschloss mich kurzfristig meinen freien Tag zu nutzen, um eine Freundin in Scuol zu besuchen. Das macht pro Weg 2h45 Reise.
 
@@ -29,6 +29,6 @@ Zurück in Scoul mache ich mich bereits wieder auf den Weg nach Zürich - jedoch
 
 Und dann bin ich wieder in Zürich. Mal schauen, wohin mich mein GA das nächste Mal bring.
 
-Wie bereits angemerkt. Viel mehr Bilder gibt es hier: [mediagoblin.aurka.com](http://mediagoblin.aurka.com/mediagoblin/mg.fcgi/u/janssen/collection/01-10-2014-einmal-scuol-retour/ "mediagoblin.aurka.com")
+Wie bereits angemerkt. Viel mehr Bilder gibt es hier: [mediagoblin.aurka.com](http://mediagoblin.aurka.com/u/janssen/collection/01-10-2014-einmal-scuol-retour/ "mediagoblin.aurka.com")
 
 

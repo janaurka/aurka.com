@@ -162,7 +162,7 @@ Und eine `.htaccess`-Datei erstellen:
 	RewriteEngine On
 	RewriteBase /
 	RewriteCond %{REQUEST_FILENAME} !-f
-	RewriteRule ^(.*)$ mediagoblin/mg.fcgi/$1 [QSA,L]
+	RewriteRule ^(.*)$ $1 [QSA,L]
 
 	Options +ExecCGI
 	AddHandler fcgid-script .fcgi

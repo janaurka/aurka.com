@@ -5,7 +5,7 @@ Picture: montreal_header.jpg
 Category: blog
 Author: janssen
 
-** Hier ist viel Text und wenig Bild. Wer das Gegenteil haben möchte wird hier glücklich: [mediagoblin.aurka.com](http://mediagoblin.aurka.com/mediagoblin/mg.fcgi/u/janssen/collection/09-12-november-2014-in-montreal/ "mediagoblin.aurka.com")**
+** Hier ist viel Text und wenig Bild. Wer das Gegenteil haben möchte wird hier glücklich: [mediagoblin.aurka.com](http://mediagoblin.aurka.com/u/janssen/collection/09-12-november-2014-in-montreal/ "mediagoblin.aurka.com")**
 
 Anfangs der Woche verschlug es mich für gut 48 Stunden nach Montreal - wer sich jetzt denkt, dass sich dies als Mitteleuropäer nicht lohnt, es waren immerhin mehr als die knapp 24 Stunden Chicago im August dieses Jahres. Und wenn man nur so wenig Zeit hat, um eine Stadt zu erkunden, dann ist man immerhin in der Zeit viel unterwegs.
 
@@ -69,6 +69,6 @@ Plakate wie dieses (und oftmals noch schlechter geklebt als dieses hier) hängen
 
 In Montreal fühl man sich (gefühlt) wie in einer nie enden wollenden Kleinstadt. Beim stundenlangen wandern durch die Straßen kriegt man nie so richtig das Gefühl in einer Großstadt zu sein. Alles in allem hat mir Montreal äusserst gut gefallen!
 
-Wie bereits angemerkt. Viel mehr Bilder gibt es hier: [mediagoblin.aurka.com](http://mediagoblin.aurka.com/mediagoblin/mg.fcgi/u/janssen/collection/09-12-november-2014-in-montreal/ "mediagoblin.aurka.com")
+Wie bereits angemerkt. Viel mehr Bilder gibt es hier: [mediagoblin.aurka.com](http://mediagoblin.aurka.com/u/janssen/collection/09-12-november-2014-in-montreal/ "mediagoblin.aurka.com")
 
 

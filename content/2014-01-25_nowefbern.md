@@ -11,7 +11,7 @@ Die Rally ging beim Baldachin weiter. Dort formierte sich eine Demonstrion von c
 
 Zum Schluss gab es im Hauptbahnof eine Abschlussaktion, bei der Ballone und Papierflieger auf den Treffpunkt heruntergeworfen wurden.
 
-Weiter Bilder gibt es unter [mediagoblin.aurka.com](http://mediagoblin.aurka.com/mediagoblin/mg.fcgi/u/janssen/collection/25-01-2014-anti-wef-rally-in-bern/).
+Weiter Bilder gibt es unter [mediagoblin.aurka.com](http://mediagoblin.aurka.com/u/janssen/collection/25-01-2014-anti-wef-rally-in-bern/).
 
 Bezüglich kommerzieller Verwendung der Bilder bitte ich um ein Mail an mediagoblin@aurka.com
 
