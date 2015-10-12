@@ -29,12 +29,12 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 # Blogroll
-#LINKS =  (('My Photos on 500px', 'http://500px.com/0xTry'),
-#          ('My Twitter Accoutn', 'https://twitter.com/0xTry'),)
+#LINKS =  (('My Photos on 500px', 'http://500px.com/janaurka'),
+#          ('My Twitter Accoutn', 'https://twitter.com/janaurka'),)
 
 # Social widget
-#SOCIAL = (('Twitter', 'https://twitter.com/0xTry'),
-#          ('500px', 'http://500px.com/0xTry'),)
+#SOCIAL = (('Twitter', 'https://twitter.com/janaurka'),
+#          ('500px', 'http://500px.com/janaurka'),)
 
 DEFAULT_PAGINATION = 7
 
