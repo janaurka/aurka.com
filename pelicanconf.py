@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'janssen'
 SITENAME = u'blog.aurka.com'
 #SITESUBTITLE = u''
-SITEURL = 'http://blog.aurka.com'
+SITEURL = 'https://blog.aurka.com'
 
 THEME = 'themes/html5-dopetrope'
 
@@ -15,7 +15,7 @@ TIMEZONE = 'Europe/Paris'
 DEFAULT_DATE_FORMAT = ('%d.%m.%Y')
 
 # Customizing
-ABOUT_LINK = 'http://blog.aurka.com/pages/about.html'
+ABOUT_LINK = 'https://blog.aurka.com/pages/about.html'
 ABOUT_IMAGE = 'freshpaint.jpg'
 
 # Category
@@ -47,9 +47,9 @@ DISPLAY_PAGES_ON_MENU = False
 
 STATIC_PATHS = ["pictures", "krimskrams", ]
 
-PLUGINS = [
-    'pelicanfly',
-]
+#PLUGINS = [
+#    'pelicanfly',
+#]
 
 #Piwik
 
