@@ -2,7 +2,7 @@ Title: Fotografie
 Author: janssen
 Slug: fotografie
 
-Ich bin ein freischaffender Fotograf. Dies dürfte alleine durch die Betrachtung dieses [Blogs](http://aurka.com "aurka.cm") oder durch das Betrachten meiner Bilden in [meinem Mediagoblin](http://mediagoblin.aurka.com "mediagoblin.aurka.com") bereits aufgefallen sein.
+Ich bin ein freischaffender Fotograf. Dies dürfte alleine durch die Betrachtung dieses [Blogs](http://aurka.com "aurka.cm") oder durch das Betrachten meiner Bilden in [meinem Mediagoblin](https://mediagoblin.aurka.com "mediagoblin.aurka.com") bereits aufgefallen sein.
 
 ## Ein Fotograf wird für XYZ benötigt
 Einfach mit mir [Kontakt](about.html "Kontakt") aufnehmen und dann können wir uns das Ganze anschauen. Und dann gibt es vielleicht bald Fotos zu XYZ von mir für Sie/dich/euch.
@@ -55,7 +55,7 @@ Mag / Mach ich nicht wirklich. Ich will meine Fotos möglichst natürlich belass
 
 Dafür verwende ich dann:
 
-* Corel AfterShot Pro 2 (proprietär...), läuft seit Version 2 nativ unter Linux 64bit. Siehe: [AfterShot Pro 2 im Vergleich mit Darktable unter Linux](http://blog.aurka.com/aftershot-pro-2-im-vergleich-mit-darktable-unter-linux.html)
+* Corel AfterShot Pro 2 (proprietär...), läuft seit Version 2 nativ unter Linux 64bit. Siehe: [AfterShot Pro 2 im Vergleich mit Darktable unter Linux](https://blog.aurka.com/aftershot-pro-2-im-vergleich-mit-darktable-unter-linux.html)
 * Darktable (besonders Bilder mit Personen gelingen mir mit Darktable leider noch eher selten, da hole ich bei AfterShot Pro noch bedeutend mehr aus dem Bild heraus)
 * Gimp (nur Bildveränderungen wie Verpixelung)
 

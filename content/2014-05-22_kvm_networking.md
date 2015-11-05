@@ -4,7 +4,7 @@ Tags: ubuntu, trusty, linux, kvm, libvirt, qemu, debian, tech, howto, ovs, open,
 Category: tech
 Author: janssen
 
-Dies ist der dritte Post zum Thema Ubuntu 14.04 und KVM. Dieser behandelt das Thema 'Networking', wobei ich mit Open vSwitch arbeiten werde. Die ersten beiden Artikel sind [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html) und [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://blog.aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html).
+Dies ist der dritte Post zum Thema Ubuntu 14.04 und KVM. Dieser behandelt das Thema 'Networking', wobei ich mit Open vSwitch arbeiten werde. Die ersten beiden Artikel sind [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](https://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html) und [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](https://blog.aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html).
 
 # Umgebung
 Sämtliche Informationen gelten für folgende Testumgebung:
@@ -148,7 +148,7 @@ Liefert folgendes zurück:
 	 examplebr0           active     yes           yes
 
 # VMs an den Open vSwitch anbinden
-Die Erstellung von VMs ist im Artikel [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html) erklärt.
+Die Erstellung von VMs ist im Artikel [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](https://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html) erklärt.
 Nun beherrscht `virt-install` leider (noch) keine Erstellung von VMs mit Open vSwitch. Deshalb gibt es einen Workaround. Die VM wird mit der Option `--nonetworks` erstellt; also ohne Netzwerkkonfiguration:
 
 	virt-install --connect qemu:///system --name example1 --ram=24109 --vcpus=4 \
@@ -191,9 +191,9 @@ Neu ist der Port `vnet0`. Der Open vSwitch wird nun für das Networking unter KV
 
 # Weitere Artikel zum Thema KVM unter Ubuntu 14.04
 
-* [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
-* [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
-* [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://blog.aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
+* [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](https://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
+* [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](https://blog.aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
+* [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](https://blog.aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
 * [Konvertierung von ESXi-VMs zu KVM unter Ubuntu 14.04](konvertierung-von-esxi-vms-zu-kvm-unter-ubuntu-1404.html)
 
-Anmerkungen und Korrekturen bitte via [Kontakt](http://blog.aurka.com/pages/about.html)
+Anmerkungen und Korrekturen bitte via [Kontakt](https://blog.aurka.com/pages/about.html)

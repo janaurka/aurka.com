@@ -5,7 +5,7 @@ Category: tech
 Picture: mediagoblinuse_header.jpg
 Author: janssen
 
-Seit der [Installation von Mediagoblin auf meinem Uberspace](http://blog.aurka.com/mediagoblin-auf-uberspace.html) ist nun über ein halbes Jahr vergangen - Zeit um ein kurzes Fazit zu ziehen:
+Seit der [Installation von Mediagoblin auf meinem Uberspace](https://blog.aurka.com/mediagoblin-auf-uberspace.html) ist nun über ein halbes Jahr vergangen - Zeit um ein kurzes Fazit zu ziehen:
 
 Mediagoblin macht sich gut. Die Wartung ist leicht, Updates funktionierten bis jetzt ohne zusätzliche Handarbeit und das Programm machte auch ansonsten keine größeren Probleme. Was bleibt sind (leider; wie so oft) diverse Kinderkrankheiten, welche hoffentlich bald aus der Welt geschafft werden. Bis jetzt habe ich meine Entscheidung, meine Fotos (und es sind bis jetzt effektiv nur Fotos geblieben) auf meiner eigenen Mediagoblin-Instanz zu hosten, nie bereut. Ich habe die volle Kontrolle über meine Fotos, kann Mediagoblin ohne weiter anpassen und muss mir keine Hilfe von bloated Wordrpess Themes oder so holen, die zwar fancy aussehen, aber wohl alleine beim Gedanken auf solch ein Produkt zu bauen, lässt mich erschaudern.
 
@@ -13,7 +13,7 @@ Mediagoblin macht sich gut. Die Wartung ist leicht, Updates funktionierten bis j
 
 Was zu bemerken ist, die Kinderkrankheiten haben es teilweise in sich. Einige Beispiele:
 
-* JPEGs direkt aus dem RAW-Editor [Darktable](http://www.darktable.org/) exportiert, werden von Mediagoblin korrekt hochgeladen und verarbeitet, können jedoch nicht angezeigt werden. Beispiel gefällig? [Hier](http://mediagoblin.aurka.com/u/janssen/m/boom-1335/) Das Problem scheint ein 'Creation Date'-EXIF Attribut zu sein  ([Bugreport](https://issues.mediagoblin.org/ticket/825)). Ein solches Fotos kann nur direkt auf der Datenbank gelöscht werden, weil das Bild angezeigt werden können muss, um es via WebGUI löschen zu können. Im nächsten Release gibt es dann wenigstens einen `gmg`-Command, um ein Element zu löschen.
+* JPEGs direkt aus dem RAW-Editor [Darktable](http://www.darktable.org/) exportiert, werden von Mediagoblin korrekt hochgeladen und verarbeitet, können jedoch nicht angezeigt werden. Beispiel gefällig? [Hier](https://mediagoblin.aurka.com/u/janssen/m/boom-1335/) Das Problem scheint ein 'Creation Date'-EXIF Attribut zu sein  ([Bugreport](https://issues.mediagoblin.org/ticket/825)). Ein solches Fotos kann nur direkt auf der Datenbank gelöscht werden, weil das Bild angezeigt werden können muss, um es via WebGUI löschen zu können. Im nächsten Release gibt es dann wenigstens einen `gmg`-Command, um ein Element zu löschen.
 * Wird eine Sammlung (Collection im Mediagoblin Jargon) erstellt, wird mit der Hilfe der 'Newer'- und 'Older'-Buttons nicht etwa in dieser Sammlung navigiert, sondern im ganzen Medien-Pool. Um eine Sammlung vollständig zu betrachten, muss also jedes Bild einzeln aus der Sammlungsübersicht angeschaut werden. Auch können Sammlungen nicht sortiert werden. Dies geschieht durch das Upload-Datum automatisch und kann nicht beeinflusst werden.
 * Soweit ich das gesehen habe, können keine User erstellt werden, die nur Kommentare, aber keine Medien hochladen können. Ich benötige die Komentarfunktion nicht und würde mich auch nicht freiwillig auf einer Mediagoblin-Instanz anmelden, um einen Komentar abzusetzen, aber die Userbeschränkung auf 'Komentar-only' wär schon nicht schlecht.
 * Teilweise funktioniert ein Upload erst beim zweiten Versuch (noch nicht klar, wieso dies teilweise der Fall ist. Kann durchaus auch an meinem Setup liegen)
@@ -32,4 +32,4 @@ Ich denke mal, dass wir uns bald auf die Version 0.7 freuen können, auch wenn n
 
 Alles in allem ist Mediagoblin eine äusserst bedienerfreundliche Medienhosting-Applikation, welche ich allen technisch versierteren Menschen nur wärmstens empfehlen kann. Die Installation wird leider sämtliche technisch nicht versierten Menschen abschrecken, nach der Installation sind die Vorgänge (Upload, Verwaltung, etc.) jedoch äusserst simpel.
 
-Anmerkungen und Korrekturen bitte via [Kontakt](http://blog.aurka.com/pages/about.html)
+Anmerkungen und Korrekturen bitte via [Kontakt](https://blog.aurka.com/pages/about.html)

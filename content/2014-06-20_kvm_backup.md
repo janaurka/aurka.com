@@ -4,7 +4,7 @@ Tags: ubuntu, trusty, linux, kvm, libvirt, snapshot, qemu, debian, backup, qcow2
 Category: tech
 Author: janssen
 
-Dieser Blogeintrag erweitert grundsätzlich den Blogeintrag [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://blog.aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html) um ein in der Praxis einfach zu verwendendes Script, um KVM Maschinen bequem zu sichern.
+Dieser Blogeintrag erweitert grundsätzlich den Blogeintrag [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](https://blog.aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html) um ein in der Praxis einfach zu verwendendes Script, um KVM Maschinen bequem zu sichern.
 
 # Umgebung
 Sämtliche Informationen gelten für folgende Testumgebung:
@@ -95,10 +95,10 @@ Dies wurde von mir noch nicht getestet, jedoch sollte laut Luca folgender Befehl
 Also die VM definieren, schauen dass das Backup-Image am korrekten Ort liegt und dann als File das RAM-Abbild angeben. Mit der Option `--running` müsste KVM die Maschine dann gleich als running betiteln.
 
 # Weitere Artikel zum Thema KVM unter Ubuntu 14.04
-* [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
-* [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
-* [Open vSwitch mit KVM unter Ubuntu 14.04](http://blog.aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
+* [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](https://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
+* [Erstellen virtueller Windows-VMs mit KVM unter Ubuntu 14.04](https://blog.aurka.com/erstellen-virtueller-windows-vms-mit-kvm-unter-ubuntu-1404.html)
+* [Open vSwitch mit KVM unter Ubuntu 14.04](https://blog.aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
 * [Konvertierung von ESXi-VMs zu KVM unter Ubuntu 14.04](konvertierung-von-esxi-vms-zu-kvm-unter-ubuntu-1404.html)
-* [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://blog.aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
+* [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](https://blog.aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
 
-Anmerkungen und Korrekturen bitte via [Kontakt](http://blog.aurka.com/pages/about.html)
+Anmerkungen und Korrekturen bitte via [Kontakt](https://blog.aurka.com/pages/about.html)

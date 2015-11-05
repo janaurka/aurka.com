@@ -5,9 +5,9 @@ Category: tech
 Picture: mediagoblinuse_header.jpg
 Author: janssen
 
-Mediagoblin (mehr Infos darüber auf der [offiziellen Homepage](http://mediagoblin.org/) und in [diversen Blogeinträgen auf diesem Blog](http://blog.aurka.com/tag/mediagoblin.html)) bietet leider aktuell keine einfache Migration der Datenbank von SQLite zu Postgres. Eine Migration ist jedoch mit relativ wenigen Schritten möglich. Hier eine kurze Anleitung:
+Mediagoblin (mehr Infos darüber auf der [offiziellen Homepage](http://mediagoblin.org/) und in [diversen Blogeinträgen auf diesem Blog](https://blog.aurka.com/tag/mediagoblin.html)) bietet leider aktuell keine einfache Migration der Datenbank von SQLite zu Postgres. Eine Migration ist jedoch mit relativ wenigen Schritten möglich. Hier eine kurze Anleitung:
 
-__Solltet ihr Mediagoblin wie im Artikel [Mediagoblin auf einem Uberspace](http://blog.aurka.com/mediagoblin-auf-uberspace.html) beschrieben Mediagoblin innerhalb eines Uberspaces betreiben, dann müsst ihr Postgres zuerst wie im Artikel aufgezeigt initialisieren/installieren__
+__Solltet ihr Mediagoblin wie im Artikel [Mediagoblin auf einem Uberspace](https://blog.aurka.com/mediagoblin-auf-uberspace.html) beschrieben Mediagoblin innerhalb eines Uberspaces betreiben, dann müsst ihr Postgres zuerst wie im Artikel aufgezeigt initialisieren/installieren__
 
 Nach der Bereitstellung von Postgres muss nun die Postgres Datenbank erstellt werden. Voraussetzung hierfür ist eine laufende und funktionierende Postgres Instanz.
 
@@ -79,7 +79,7 @@ Das Vorgehen ist gleich wie beim Script vom Postgres-Wiki.
 
 Nun ist auch die ID bei Postgres korrekt und Mediagoblin wurde erfolgreich von SQLite nach Postgres migriert.
 
-Anmerkungen und Korrekturen bitte via [Kontakt](http://blog.aurka.com/pages/about.html)
+Anmerkungen und Korrekturen bitte via [Kontakt](https://blog.aurka.com/pages/about.html)
 
 
 Quellen:

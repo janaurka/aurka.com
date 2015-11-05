@@ -5,7 +5,7 @@ Picture: veganroesti_header.jpg
 Category: blog 
 Author: janssen
 
-Nachdem ich hier vor gut einem Monat aus einer Laune heraus dokumentiert habe, wie ein [veganes Kokoknusscurry mit Reis und Tofu herstellt](http://blog.aurka.com/vegan-zu-kochen-ist-ganz-leicht-ein-beispiel.html) kommt nun bereits das nächste Gericht. Es gab Rösti.
+Nachdem ich hier vor gut einem Monat aus einer Laune heraus dokumentiert habe, wie ein [veganes Kokoknusscurry mit Reis und Tofu herstellt](https://blog.aurka.com/vegan-zu-kochen-ist-ganz-leicht-ein-beispiel.html) kommt nun bereits das nächste Gericht. Es gab Rösti.
 
 ## Das Menu
 
@@ -31,7 +31,7 @@ Die Produktion einer Rösti ist ziemlich simpel und benötigt nicht allzu viel Z
 
 Als Erstes müssen die Kartoffeln geschält werden und dann mit einer groben Raffel in eine Schüßel geraffelt werden.
 
-![Kartoffeln raffeln](http://mediagoblin.aurka.com/mgoblin_media/media_entries/537/ABC8362.medium.jpg)
+![Kartoffeln raffeln](https://mediagoblin.aurka.com/mgoblin_media/media_entries/537/ABC8362.medium.jpg)
 
 Nun alle anderen Zutaten den zerkleinerten Karfollen beigeben. Bei mir war dies:
 
@@ -43,24 +43,24 @@ Nun alle anderen Zutaten den zerkleinerten Karfollen beigeben. Bei mir war dies:
 * Pfeffer und Salz
 * Kurkuma
 
-![Alles Zutaten in die Schüssel](http://mediagoblin.aurka.com/mgoblin_media/media_entries/538/ABC8365.medium.jpg)
+![Alles Zutaten in die Schüssel](https://mediagoblin.aurka.com/mgoblin_media/media_entries/538/ABC8365.medium.jpg)
 
 Nun alles einmal gut durchrühren, eine Bratpfanne bereitstellen und die ganze Masse gleichmäßig in der Bratpfanne verteilen. Die Bratpfanne kann nun stark erhitzt werden. Hier ist vorsicht geboten, denn es soll eine schöne 'Kruste' entstehen, aber halt nicht verbrennen. Am einfachsten erhitzen bis sich kleinere Blasen bilden und/oder die Pfanne gut heiss ist. Die Masse während des Vorgangs in Ruhe lassen.
 
-![Die erste Seite anbraten](http://mediagoblin.aurka.com/mgoblin_media/media_entries/540/ABC8376.medium.jpg)
+![Die erste Seite anbraten](https://mediagoblin.aurka.com/mgoblin_media/media_entries/540/ABC8376.medium.jpg)
 
 Nach fünf bis zehn Minuten will die Rösti nun noch auf der anderen Seite angebraten werden. Um das Wendemanöver möglichst einfach zu gestalten, nimmt man am einfachsten einen großen Teller und legt diesen über die Bratpfanne. Dann eine Hand da drauf und die Brafpfanne umdrehen. Die untere Seite sollte dann in etwa so aussehen:
 
-![Die erste Seite ist fertig](http://mediagoblin.aurka.com/mgoblin_media/media_entries/542/ABC8385.medium.jpg)
+![Die erste Seite ist fertig](https://mediagoblin.aurka.com/mgoblin_media/media_entries/542/ABC8385.medium.jpg)
 
 Nun die Rösti mit der noch nicht angebratenen Seite nach unten in die Bratpfanne zurücklegen und noch einmal fünf bis zehn Minuten warten. Und dann ist es bereits so weit. Die Rösti ist fertig zum servieren.
 
-![Fertig gekocht](http://mediagoblin.aurka.com/mgoblin_media/media_entries/543/ABC8388.medium.jpg)
+![Fertig gekocht](https://mediagoblin.aurka.com/mgoblin_media/media_entries/543/ABC8388.medium.jpg)
 
 (Wer alleine is(s)t, gibt auch nicht viel auf schönes Anrichten...)
 
-Mehr Bilder zu meinem Geköche gibt es unter [mediagoblin.aurka.com](http://mediagoblin.aurka.com/u/janssen/collection/29-10-2014-vegane-rosti-herstellen/)
+Mehr Bilder zu meinem Geköche gibt es unter [mediagoblin.aurka.com](https://mediagoblin.aurka.com/u/janssen/collection/29-10-2014-vegane-rosti-herstellen/)
 
-Vielleicht blogge ich in Zukunft des öfteren über das Zubereiten von Mahlzeiten; hab sogar bereits eine neue [Kategorie](http://blog.aurka.com/category/kochen.html) erstellt...
+Vielleicht blogge ich in Zukunft des öfteren über das Zubereiten von Mahlzeiten; hab sogar bereits eine neue [Kategorie](https://blog.aurka.com/category/kochen.html) erstellt...
 
 

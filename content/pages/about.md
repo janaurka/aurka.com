@@ -34,7 +34,7 @@ Die Seite wird beim wohl absolut coolsten Hoster überhaupt gehostet - [Uberspac
 Schaut es euch an. Mehr muss ich eigentlich gar nicht sagen - hin da!
 
 ## Datenschutz /Tracking durch Piwik
-Siehe [Artikel zu Piwik](http://blog.aurka.com/piwik.html "Artikel zu Piwik auf *.aurka.com")
+Siehe [Artikel zu Piwik](https://blog.aurka.com/piwik.html "Artikel zu Piwik auf *.aurka.com")
 
 ## Wie erstellt?
 Mit dem grandiosen [Pelican](http://blog.getpelican.com/ "Pelican Homepage"), welches auf [Python](http://python.org "Python Homepage") basiert.
@@ -46,7 +46,7 @@ Ich hatte diverse Prototypen in [Jekyll](http://jekyllrb.com "Jekyll Homepage") 
 
 Der Blog ist abonierbar.
 
-* [Atom](http://blog.aurka.com/feeds/all.atom.xml)
-* [RSS](http://blog.aurka.com/feeds/all.rss.xml)
+* [Atom](https://blog.aurka.com/feeds/all.atom.xml)
+* [RSS](https://blog.aurka.com/feeds/all.rss.xml)
 
 Viel Spaß damit - bei Fragen fragen.

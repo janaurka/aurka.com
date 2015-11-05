@@ -40,5 +40,5 @@ Ich glaube eine Vergleich sagt mehr als ich mit all den geschriebenen Worte oben
 Nur kurz mein Feedback: 
 Ich bin wieder diverse Male zu spät aufgestanden und habe dadurch ein paar sehr spannende Vorträge verpasst. Weiter nutze ich noch zu wenige Features des CCCs. Ich war an _keinem_ Workshop (schon wieder; ich Depp), ich hatte kein DECT-Phone dabei (wenn sie den Service schon anbieten) und leider auch kein zweites Handy für eine Kongress-SIM-Karte. Das will ich nächstes Jahr unbedingt nachholen.Auch möchte ich wenn möglich mit einem Projekt an den nächsten Kongress kommen, um auch etwas produktives Arbeiten zu können mit all den super Leuten vor Ort - oder ich will mich wenigstens an einem Projekt beteiligen. Jetzt habe ich teilweise einfach ein bisschen vor mich hin gedümpelt. Weiter kann ich es mir sehr gut vorstellen als Engel zu arbeiten. Ich überlege mir dies bis nächstes Jahr. Auf jeden Fall freue ich mich bereits wieder tierisch (miau!) auf den #31c3!
 
-(Die erwähnten Tagesrückblicke, etc. lassen sich in der Kategorie [CCC](http://blog.aurka.com/category/ccc.html) finden.)
+(Die erwähnten Tagesrückblicke, etc. lassen sich in der Kategorie [CCC](https://blog.aurka.com/category/ccc.html) finden.)
 

@@ -20,7 +20,7 @@ Superfreundliches Berner Techkollektiv mit Mailhosting, Jabber, etc.
 Wie auf jeder Seite verlinkt und unter [about](about.html "About") vermerkt mein Hoster für diese Seite. Hin da, super da!
 
 ### [Chaos Communication Congress](http://events.ccc.de "CCC Events")
-(Und somit natürlich auch der [Chaos Computer Club](https://ccc.de "ccc.de")) Bestmöglicher Aufenthaltsort zwischen dem 26 and 30.12 jeden Jahres. Seit 2012 wieder im CCH in Hamburg angesiedelt. Vier Tage lang Vorträge, hacken, rumnerden und Mate saufen. Diverse Beiträge finden sich unter der Kategorie [CCC](http://blog.aurka.com/category/ccc.html).
+(Und somit natürlich auch der [Chaos Computer Club](https://ccc.de "ccc.de")) Bestmöglicher Aufenthaltsort zwischen dem 26 and 30.12 jeden Jahres. Seit 2012 wieder im CCH in Hamburg angesiedelt. Vier Tage lang Vorträge, hacken, rumnerden und Mate saufen. Diverse Beiträge finden sich unter der Kategorie [CCC](https://blog.aurka.com/category/ccc.html).
 
 ### [Fefes Blog](http://blog.fefe.de "blog.fefe.de")
 Sehr unterhaltsamer Infoblog von Fefe. Wers nicht kennt: anschauen!

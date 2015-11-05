@@ -9,6 +9,6 @@ Am 1. November 2014 fand auf dem Bundesplatz in Bern eine Veranstaltung gegen di
 
 Zwischendurch wurden Reden gehalten, Flugblättern verteilt und  Parolen für die Solidarität mit Flüchtlingen, gegen Rassismus und Faschismus, sowie gegen die Ecopop-Initiaitve gerufen.
 
-Bilder der Demonstration gibt es unter [mediagoblin.aurka.com](http://mediagoblin.aurka.com/u/janssen/collection/01-11-2014-antinational-statt-pseudosozial-demonstration-in-bern/)
+Bilder der Demonstration gibt es unter [mediagoblin.aurka.com](https://mediagoblin.aurka.com/u/janssen/collection/01-11-2014-antinational-statt-pseudosozial-demonstration-in-bern/)
 
 Bezüglich kommerzieller Verwendung der Bilder bitte ich um ein Mail an jan-fotos[at]aurka[dot]com.

@@ -4,7 +4,7 @@ Tags: ubuntu, trusty, linux, kvm, libvirt, qemu, debian, virt-install, tech, how
 Category: tech
 Author: janssen
 
-Dieser Blogpost erläutert kurz das Vorgehen bei der Erstellung von virtuellen Windows-VMs mit KVM unter 14.04. Dies unterscheidet sich an gewissen Orten von dem Vorgang von Linux/UNIX VMs. Der Artikel basiert auf [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html).
+Dieser Blogpost erläutert kurz das Vorgehen bei der Erstellung von virtuellen Windows-VMs mit KVM unter 14.04. Dies unterscheidet sich an gewissen Orten von dem Vorgang von Linux/UNIX VMs. Der Artikel basiert auf [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](https://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html).
 
 # Requirements
 Speziell für Windows-VMs wird folgendes zusätzlich benötigt:
@@ -22,7 +22,7 @@ Mit der Hilfe von `virt-install` kann nun sehr schmerzfrei eine VM erstellt werd
 	--disk path=/var/vm/win7test/win7test.qcow2,size=50,format=qcow2 \
 	--cdrom=/var/vm/ISO/windows7.iso --vnc --os-type=windows --nonetworks
 
-Nun ist die VM bereits erstellt und läuft auch. Das `--nonetworks` bezieht sich auf den im Artikel [Open vSwitch mit KVM unter Ubuntu 14.04](http://blog.aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html) näher beschriebene Verwendung eines Open vSwitches. Sollten normale Linux-Bridges verwendet werden, kann das Netzwerk natürlich gleich mit `virt-install` zugewiesen werden.
+Nun ist die VM bereits erstellt und läuft auch. Das `--nonetworks` bezieht sich auf den im Artikel [Open vSwitch mit KVM unter Ubuntu 14.04](https://blog.aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html) näher beschriebene Verwendung eines Open vSwitches. Sollten normale Linux-Bridges verwendet werden, kann das Netzwerk natürlich gleich mit `virt-install` zugewiesen werden.
 
 ## Installation VM
 Speziell hier ist, dass der `virt-install` Befehl weiterläuft. Dieser kann nun in den Hintergrund geschickt werden, oder es muss von einem anderen Terminal aus weitergearbeitet werden.
@@ -48,7 +48,7 @@ Dies öffnet den default Editor mit dem win7test-XML File. Direkt vor `</devices
 	 <model type='virtio'/>
 	</interface>
 
-(Das detaillierte Vorgehen ist im Artikel [Open vSwitch mit KVM unter Ubuntu 14.04](http://blog.aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html) beschrieben).
+(Das detaillierte Vorgehen ist im Artikel [Open vSwitch mit KVM unter Ubuntu 14.04](https://blog.aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html) beschrieben).
 
 Weiter muss in der Datei angegeben werden, dass die Windows VirtIO-Treiber-CD gemountet werden soll. Dies geschieht folgendermassen:
 
@@ -79,9 +79,9 @@ Nun ist Windows voll funktionsfähig und einsetzbar. Das Windows7 läuft hier mi
 
 # Weitere Artikel zum Thema KVM unter Ubuntu 14.04
 
-* [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](http://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
-* [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](http://blog.aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
-* [Open vSwitch mit KVM unter Ubuntu 14.04](http://blog.aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
+* [Erstellen virtueller Maschinen mit KVM unter Ubuntu 14.04](https://blog.aurka.com/erstellen-virtueller-maschinen-mit-kvm-unter-ubuntu-1404.html)
+* [Backups mit (externen) Snapshots mittels KVM unter Ubuntu 14.04](https://blog.aurka.com/backups-mit-externen-snapshots-mittels-kvm-unter-ubuntu-1404.html)
+* [Open vSwitch mit KVM unter Ubuntu 14.04](https://blog.aurka.com/open-vswitch-mit-kvm-unter-ubuntu-1404.html)
 * [Konvertierung von ESXi-VMs zu KVM unter Ubuntu 14.04](konvertierung-von-esxi-vms-zu-kvm-unter-ubuntu-1404.html)
 
-Anmerkungen und Korrekturen bitte via [Kontakt](http://blog.aurka.com/pages/about.html)
+Anmerkungen und Korrekturen bitte via [Kontakt](https://blog.aurka.com/pages/about.html)

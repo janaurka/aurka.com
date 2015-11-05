@@ -10,7 +10,7 @@ Am 1. März 2014 gab es in Bern eine Demonstration mit etwa 1000 Menschen gegen 
 Update: Auf dem Bundesplatz scheinen mehr als 'nur' 2-3000 Leute gewesen zu sein. Medien wie Newsnetz, etc. berichten von 10-12000 Menschen. Die Demo soll jedoch nur 'ein paar hundert' Leute gehabt haben. Ich denke mal mehr als 6-8000 Leute werdens wohl nicht gewesen sein. Zählen ist halt so eine Sache, ne?
 
 
-Weiter Bilder gibt es unter [mediagoblin.aurka.com](http://mediagoblin.aurka.com/u/janssen/collection/01-03-2014-demonstration-gegen-rassismus-in-bern/).
+Weiter Bilder gibt es unter [mediagoblin.aurka.com](https://mediagoblin.aurka.com/u/janssen/collection/01-03-2014-demonstration-gegen-rassismus-in-bern/).
 
 Bezüglich kommerzieller Verwendung der Bilder bitte ich um ein Mail an mediagoblin@aurka.com
 
