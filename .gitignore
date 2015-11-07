@@ -4,3 +4,4 @@ publishconf.pyc
 .DS_Store
 */.DS_Store
 Makefile
+cache/*
